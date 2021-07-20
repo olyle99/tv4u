@@ -6254,7 +6254,7 @@ http://live.yimp.cc:7779/561999111/4ONU8gwUKk/61531|User-Agent=164836512
 #EXTINF:-1 group-title="[WL]ADULT STREAM[+18]" tvg-logo="https://i.imgur.com/XgXuRYH.png",[$]PENTHOUSE GOLD HD
 http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42135|User-Agent=164836512
 #EXTINF:-1 group-title="[WL]ADULT STREAM[+18]" tvg-logo="https://i.imgur.com/XgXuRYH.png",[$]PENTHOUSE GOLD
-http://87.126.155.253:4000/play/a03F
+http://87.126.155.253:4000/play/a03f
 #EXTINF:-1 group-title="[WL]ADULT STREAM[+18]" tvg-logo="https://i.imgur.com/gl8dmPl.png",[$]PENTHOUSE QUICKIES HD
 http://live.yimp.cc:7779/561999111/4ONU8gwUKk/42134|User-Agent=164836512
 #EXTINF:-1 group-title="[WL]ADULT STREAM[+18]" tvg-logo="https://i.imgur.com/gl8dmPl.png",[$]PENTHOUSE QUICKIES
@@ -6327,7 +6327,7 @@ https://cutt.ly/9hBgP7l
 https://cutt.ly/yhBgAc2
 
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/l9QNLTn.png",======================
-https://videos.files.wordpress.com/UhYfBa7G/laugh_mp4_dvd.mp4?77
+https://videos.files.wordpress.com/UhYfBa7G/laugh_mp4_dvd.mp4?1
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/IE4u4GW.png",[BE COFFEE] EMIGRANTI 1 [$]
 https://videos.files.wordpress.com/beeADp8M/becoffee-emigranti1_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/IE4u4GW.png",[BE COFFEE] EMIGRANTI 2 [$]
@@ -6365,7 +6365,7 @@ https://videos.files.wordpress.com/aEAepJuq/semundja_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/IE4u4GW.png",[BE COFFEE] MONOLOG:VITI I RI [$]
 https://videos.files.wordpress.com/iPdxXkn7/vitiiri_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/l9QNLTn.png",======================
-https://videos.files.wordpress.com/UhYfBa7G/laugh_mp4_dvd.mp4?88
+https://videos.files.wordpress.com/UhYfBa7G/laugh_mp4_dvd.mp4?2
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] 1 PRILLI [$]
 https://videos.files.wordpress.com/unluh8hE/1prilli_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] AKSION ME SKIFTERIN [$]
@@ -6511,7 +6511,7 @@ https://videos.files.wordpress.com/TX8ul9Hu/vaksinaanticovid_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/yiX6E1U.png",[2 POLICET] VJEDHJA E SHTEPISE [$]
 https://videos.files.wordpress.com/YusMfZKi/vjedhjaeshtepise_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/l9QNLTn.png",======================
-https://videos.files.wordpress.com/UhYfBa7G/laugh_mp4_dvd.mp4?99
+https://videos.files.wordpress.com/UhYfBa7G/laugh_mp4_dvd.mp4?3
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] BALENA BLU [$]
 https://videos.files.wordpress.com/3ZMeV3YT/kimikati-balenablu_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] BLOGER [$]
@@ -6581,7 +6581,7 @@ https://videos.files.wordpress.com/UCB0b7rr/kimikatibisedasiburriburrit_mp4_dvd.
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.ibb.co/ftWKsy7/KIMIKATI.png",[KIMIKATI] NDALIMI NGA POLICIA [$]
 https://videos.files.wordpress.com/nXpFjI5N/kimikati-policatepostbllokut_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/l9QNLTn.png",======================
-https://videos.files.wordpress.com/UhYfBa7G/laugh_mp4_dvd.mp4?00
+https://videos.files.wordpress.com/UhYfBa7G/laugh_mp4_dvd.mp4?4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] ANALISTET: LISTAT [$]
 https://videos.files.wordpress.com/zeMsFUtA/analistet_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] ANALISTET: FLETA E VOTIMIT [$]
@@ -6625,7 +6625,7 @@ https://videos.files.wordpress.com/KQiTkJyM/skifteriprezantimi_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/RRyTH8R.png",[KOSHERJA] PERFORMANCA E INSTAGIRLS
 https://videos.files.wordpress.com/cOkQLAmr/performancaee2809cdyshoqevee2809dqendeziskenenee2809ckengesmagjikee2809d_full-hd_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/l9QNLTn.png",======================
-https://videos.files.wordpress.com/UhYfBa7G/laugh_mp4_dvd.mp4?0
+https://videos.files.wordpress.com/UhYfBa7G/laugh_mp4_dvd.mp4?5
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] EP.01 [$]
 http://62.210.209.138:41000/series/v52/v43/1844.mkv
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] EP.02 [$]
@@ -6659,7 +6659,7 @@ http://62.210.209.138:41000/series/v52/v43/1858.mkv
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] EP.16 [$]
 http://62.210.209.138:41000/series/v52/v43/1859.mkv
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/l9QNLTn.png",======================
-https://videos.files.wordpress.com/UhYfBa7G/laugh_mp4_dvd.mp4?1
+https://videos.files.wordpress.com/UhYfBa7G/laugh_mp4_dvd.mp4?6
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.01 [$]
 https://videos.files.wordpress.com/FJm55X4A/2xl01.1_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.02 [$]
@@ -6769,204 +6769,27 @@ https://videos.files.wordpress.com/o4wn55lJ/2xl405.2_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/z4T2Aja.png",[APARTAMENTI 2XL] BEST OF EP.54 [$]
 https://videos.files.wordpress.com/qfGoxNju/2xl405.3_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/l9QNLTn.png",======================
-https://videos.files.wordpress.com/UhYfBa7G/laugh_mp4_dvd.mp4
+https://videos.files.wordpress.com/UhYfBa7G/laugh_mp4_dvd.mp4?7
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/bGxZlx9.png",[PARAJSA E SKIFTERAVE] ËNDRRA PËR SHKOLLE TË LARTË [$] 
-https://videos.files.wordpress.com/Ceduj7EP/pj1_dvd.mp4
+https://videos.files.wordpress.com/Ndgz1c61/endrrapershkolletelarte_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/bGxZlx9.png",[PARAJSA E SKIFTERAVE] FILLESAT E PROFESIONIT [$] 
-https://videos.files.wordpress.com/g43GJCRc/pj2_dvd.mp4
+https://videos.files.wordpress.com/ySohPkaJ/beskallaku-parajsaeskifterave2016-pjesa2-fillesateprofesionit_full-hd_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/bGxZlx9.png",[PARAJSA E SKIFTERAVE] VJEDHJA E BANKËS [$] 
-https://videos.files.wordpress.com/SRryjERx/pj3_dvd.mp4
+https://videos.files.wordpress.com/yPLejHd5/vjedhjaebankes_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/bGxZlx9.png",[PARAJSA E SKIFTERAVE] E VRAU LUANA [$] 
-https://videos.files.wordpress.com/kYtmTpS9/pj4_std.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/bGxZlx9.png",[PARAJSA E SKIFTERAVE] SHTËPITË E POLITIKANËVE [$] 
-https://videos.files.wordpress.com/MbWJmYzS/pj5_dvd.mp4
+https://videos.files.wordpress.com/rZ9Lwmca/evrauluana_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/bGxZlx9.png",[PARAJSA E SKIFTERAVE] SHTËPIAT E POLITIKANËVE [$] 
+https://videos.files.wordpress.com/chsYreuv/shtepiatepolitikaneve_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/bGxZlx9.png",[PARAJSA E SKIFTERAVE] ANALISTËT [$] 
-https://videos.files.wordpress.com/7bNyTEwi/pj6_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/bGxZlx9.png",[PARAJSA E SKIFTERAVE] GJYGJTARËT [$] 
-https://videos.files.wordpress.com/elEF7cP5/pj7_dvd.mp4
+https://videos.files.wordpress.com/r3QnmKni/analistet_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/bGxZlx9.png",[PARAJSA E SKIFTERAVE] GJYQTARËT [$] 
+https://videos.files.wordpress.com/1nQMjqAp/gjyqtaret_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/bGxZlx9.png",[PARAJSA E SKIFTERAVE] FEMRAT [$] 
-https://videos.files.wordpress.com/z57MMzMB/pj8_std.mp4
+https://videos.files.wordpress.com/9o6LOrl3/femrat_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/bGxZlx9.png",[PARAJSA E SKIFTERAVE] TRADITAT E SKIFTERAVE [$] 
-https://videos.files.wordpress.com/0EDsTP0o/pj9_dvd.mp4
+https://videos.files.wordpress.com/AcMocgiD/traditateskifterave_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/bGxZlx9.png",[PARAJSA E SKIFTERAVE] E KEQJA MË E VOGËL [$] 
-https://videos.files.wordpress.com/m80ewb39/pj10_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/l9QNLTn.png",======================
-https://videos.files.wordpress.com/UhYfBa7G/laugh_mp4_dvd.mp4?2
-#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/VIBnXDy.png",[BIG BROTHER SHKODRA] EP.01 [$] 
-https://videos.files.wordpress.com/HyiewtV3/wp-1607376535812_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/VIBnXDy.png",[BIG BROTHER SHKODRA] EP.02 [$] 
-https://videos.files.wordpress.com/jfXysHNu/wp-1607376645387_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/VIBnXDy.png",[BIG BROTHER SHKODRA] EP.03 [$] 
-https://videos.files.wordpress.com/Um9yMr2b/wp-1607376752852_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/VIBnXDy.png",[BIG BROTHER SHKODRA] EP.04 [$] 
-https://videos.files.wordpress.com/fERRoHAR/wp-1607376861792_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/VIBnXDy.png",[BIG BROTHER SHKODRA] EP.05 [$] 
-https://videos.files.wordpress.com/vQHr6zyw/wp-1607376950150_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/VIBnXDy.png",[BIG BROTHER SHKODRA] EP.06 [$] 
-https://videos.files.wordpress.com/iWtaicpl/wp-1607377021661_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/VIBnXDy.png",[BIG BROTHER SHKODRA] EP.07 [$] 
-https://videos.files.wordpress.com/rAXgU4nn/wp-1607377200752_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/VIBnXDy.png",[BIG BROTHER SHKODRA] EP.08 [$] 
-https://videos.files.wordpress.com/dY49JALZ/wp-1607377496426_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/VIBnXDy.png",[BIG BROTHER SHKODRA] EP.09 [$]
-https://videos.files.wordpress.com/Jyk8SEdP/wp-1607377652556_dvd.mp4
-
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/9Ov3sdp.jpg",======================
-https://videos.files.wordpress.com/LrrmpTEy/serialestart_mp4_dvd.mp4
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/G2w2rMZ.png",[FAMILJA] EP.01 [$]
-https://videos.files.wordpress.com/sMGabmdX/wp-1607362908950_dvd.mp4
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/G2w2rMZ.png",[FAMILJA] EP.02 [$]
-https://videos.files.wordpress.com/CnGS2lHy/wp-1607363000978_dvd.mp4
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/G2w2rMZ.png",[FAMILJA] EP.03 [$]
-https://videos.files.wordpress.com/AbKU4lwg/wp-1607363296277_dvd.mp4
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/G2w2rMZ.png",[FAMILJA] EP.04 [$]
-https://videos.files.wordpress.com/hmoyWwYu/wp-1607363396203_dvd.mp4
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/G2w2rMZ.png",[FAMILJA] EP.05 [$]
-https://videos.files.wordpress.com/nxG8CFRC/wp-1607363588645_dvd.mp4
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/G2w2rMZ.png",[FAMILJA] EP.06 [$]
-https://videos.files.wordpress.com/NHzicnxD/wp-1607363685853_dvd.mp4
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/9Ov3sdp.jpg",======================
-https://videos.files.wordpress.com/LrrmpTEy/serialestart_mp4_dvd.mp4?2
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/GTB2kfK.png",[PIRUET] EP.01 [$]
-https://videos.files.wordpress.com/3ApxBVOU/piruet28pj.129_dvd.mp4
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/GTB2kfK.png",[PIRUET] EP.02 [$]
-https://videos.files.wordpress.com/pNWqBujQ/piruet28pj.229_dvd.mp4
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/GTB2kfK.png",[PIRUET] EP.03 [$]
-https://videos.files.wordpress.com/z3vxbhh7/piruet28pj.329_dvd.mp4
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/GTB2kfK.png",[PIRUET] EP.04 [$]
-https://videos.files.wordpress.com/gJ7jRIPx/piruet28pj.429_dvd.mp4
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/GTB2kfK.png",[PIRUET] EP.05 [$]
-https://videos.files.wordpress.com/8XXxiWYx/piruet28pj.529_dvd.mp4
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/9Ov3sdp.jpg",======================
-https://videos.files.wordpress.com/LrrmpTEy/serialestart_mp4_dvd.mp4?3
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/vwW8i3m.png",[DEKALOGU KUQ&ZI] TË FORTËT [$]
-https://videos.files.wordpress.com/U6HgdoXg/tefortet_dvd.mp4
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/vwW8i3m.png",[DEKALOGU KUQ&ZI] KAMIONISTËT [$]
-https://videos.files.wordpress.com/jM3Xlo1d/kamionistet_dvd.mp4
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/vwW8i3m.png",[DEKALOGU KUQ&ZI] POLICËT [$]
-https://videos.files.wordpress.com/bkfqYWow/policet_dvd.mp4
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/vwW8i3m.png",[DEKALOGU KUQ&ZI] KENGETARËT [$]
-https://videos.files.wordpress.com/BDUQIGxv/kengetaret_dvd.mp4
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/vwW8i3m.png",[DEKALOGU KUQ&ZI] USHTARËT [$]
-https://videos.files.wordpress.com/Vr5Osy16/ushtaret_dvd.mp4
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/vwW8i3m.png",[DEKALOGU KUQ&ZI] SPITALI [$]
-https://videos.files.wordpress.com/XNqHAFfF/spitali_dvd.mp4
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/vwW8i3m.png",[DEKALOGU KUQ&ZI] MINISTRAT [$]
-https://videos.files.wordpress.com/3n9TJ32Z/ministrat_dvd.mp4
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/vwW8i3m.png",[DEKALOGU KUQ&ZI] TURISTËT [$]
-https://videos.files.wordpress.com/8rInaFWV/turistet_dvd.mp4
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/vwW8i3m.png",[DEKALOGU KUQ&ZI] FUTBOLLISTËT [$]
-https://videos.files.wordpress.com/HJP7BzDT/futbollistet_dvd.mp4
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/vwW8i3m.png",[DEKALOGU KUQ&ZI] GRATË [$]
-https://videos.files.wordpress.com/sjxkFLcY/grate_dvd.mp4
-#EXTINF:0 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/9Ov3sdp.jpg",======================
-https://videos.files.wordpress.com/LrrmpTEy/serialestart_mp4_dvd.mp4?4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] PUSI [$]
-https://videos.files.wordpress.com/3CTslLaq/familjakuqezi3.5-pusi_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] AKSIDENTET [$]
-https://videos.files.wordpress.com/NabJPs28/familjakuqezi4.3-aksidentet_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] RULOTA NGA GJERMANIA [$]
-https://videos.files.wordpress.com/z6swv1Vx/familjakuqzi-rulotangagjermania_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] TE PAKORRUPTUARIT [$]
-https://videos.files.wordpress.com/PJ8qGPh1/fk3-2.2tc3abpakorruptuarit_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] I DEHURI [$]
-https://videos.files.wordpress.com/vryclT0w/familjakuqezi-episodi1sezoni3-idehuri_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] LARGIMI [$]
-https://videos.files.wordpress.com/AzKfs96f/familjakuqezi-episodi24-sezoni2-largimi_hd_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] BILANCI [$]
-https://videos.files.wordpress.com/bmimAav2/wp-1607450612052_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] E MO MO! [$]
-https://videos.files.wordpress.com/ndP07E6A/wp-1607450530699_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] PSE RRIMË BASHKË? [$]
-https://videos.files.wordpress.com/gwjJrHr2/wp-1607450434217_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] MAKINA MË E BUKUR NË BOTË [$]
-https://videos.files.wordpress.com/vk84yh7Y/wp-1607450385775_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] KEQBËRËSI I FJETUR [$]
-https://videos.files.wordpress.com/wmocYUEs/wp-1607447644675_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] DASHNORËT [$]
-https://videos.files.wordpress.com/tt2qC1Rp/wp-1607447556756_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] DASHURIA MIDIS YJEVE [$]
-https://videos.files.wordpress.com/cGMPBqfJ/wp-1607447526382_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] TRADHËTIA [$]
-https://videos.files.wordpress.com/yR48Uad7/wp-1607447391426_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] TË FAMSHMIT [$]
-https://videos.files.wordpress.com/XIKbB4vZ/wp-1607447089128_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] NJË DREKË SPECIALE [$]
-https://videos.files.wordpress.com/NFeDAgdG/wp-1607446999234_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] XHAKETA [$]
-https://videos.files.wordpress.com/jvnR7smn/wp-1607446926697_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] SHKOLLA [$]
-https://videos.files.wordpress.com/DTqGK0Y1/wp-1607446858538_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] RESTORANTI [$]
-https://videos.files.wordpress.com/zhpLI7Ih/wp-1607446827554_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] PUSHIMET E DIMRIT [$]
-https://videos.files.wordpress.com/GXSqLmNI/wp-1607446768770_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] RIVALËT [$]
-https://videos.files.wordpress.com/j7gRQSPQ/wp-1607446637788_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] KARAOKE [$]
-https://videos.files.wordpress.com/hMZeGMgX/wp-1607446540771_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] VAJZË E MBRAPSHTË [$]
-https://videos.files.wordpress.com/YY1n7Tro/wp-1607446446123_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] KOMSHINJTË E ÇMENDUR [$]
-https://videos.files.wordpress.com/bPOnjylr/wp-1607446294854_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] E KUQJA DHE E ZEZA [$]
-https://videos.files.wordpress.com/jeu0kkKh/wp-1607446163373_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] NGJYRAT [$]
-https://videos.files.wordpress.com/O3YPNPO6/wp-1607446104262_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] TEZE BETI [$]
-https://videos.files.wordpress.com/HTBFF7X6/wp-1607450261747_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] VEÇ E VEÇ [$]
-https://videos.files.wordpress.com/wRa5yQ7U/wp-1607445445182_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] BABALLARËT [$]
-https://videos.files.wordpress.com/zBYeNToc/wp-1607444924066_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] SHIU [$]
-https://videos.files.wordpress.com/4sxn7Gcm/wp-1607434263889_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] PUSHIMET [$]
-https://videos.files.wordpress.com/VFEpKRij/wp-1607434161698_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] PALLATI [$]
-https://videos.files.wordpress.com/YIVVgKzy/wp-1607434045174_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] SUPERSTICIONET [$]
-https://videos.files.wordpress.com/rIjZVlXm/wp-1607433940099_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] BRESHKA [$]
-https://videos.files.wordpress.com/B2FL8IpD/wp-1607433885099_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] REKORDET [$]
-https://videos.files.wordpress.com/JTD1JsIR/wp-1607433826664_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] MENDTË E KOKËS [$]
-https://videos.files.wordpress.com/f7XoFqcL/wp-1607433804962_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] NJË VIZITË NË QELI [$]
-https://videos.files.wordpress.com/1viwWry4/wp-1607433777462_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] ORA [$]
-https://videos.files.wordpress.com/HzoVuR0i/wp-1607433756685_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] HARRESA [$]
-https://videos.files.wordpress.com/nUMKVkHj/wp-1607433718215_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] ZANAFILLA 1912 [$]
-https://videos.files.wordpress.com/VG6JdxPa/wp-1607433691667_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] KUTIA [$]
-https://videos.files.wordpress.com/sunJgpfP/wp-1607439018128_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] PRONAT [$]
-https://videos.files.wordpress.com/q2nPCgMn/wp-1607437117920_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] GARDHI [$]
-https://videos.files.wordpress.com/4TsgEp0u/wp-1607437046244_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] SHOKU I PUNËS [$]
-https://videos.files.wordpress.com/90BTMwcY/wp-1607436938019_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] BURRAT DHE GRATË [$]
-https://videos.files.wordpress.com/Y2xwxTLt/wp-1607436794053_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] KURSI I VALLËZIMIT [$]
-https://videos.files.wordpress.com/m3ByJnXZ/wp-1607436886353_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] TIFOZËT [$]
-https://videos.files.wordpress.com/yVDxSIqg/wp-1607436715962_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] LLOGORJA [$]
-https://videos.files.wordpress.com/EjV9cbl2/wp-1607436605196_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] TË JESH VETVETJA [$]
-https://videos.files.wordpress.com/BLnv2FXu/wp-1607434395632_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] PASIONI I ÇMENDUR [$]
-https://videos.files.wordpress.com/Q7RJUBdC/wp-1607434298750_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] I PA FTUARI [$]
-https://videos.files.wordpress.com/pqviAl3X/wp-1607436540281_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] BURRAT VENDOSIN VETË [$]
-https://videos.files.wordpress.com/RtS1eOXZ/wp-1607433860259_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.imgur.com/rA6fhaG.png",[FAMILJA KUQEZI] DUKE PRITUR DJALIN [$]
-https://videos.files.wordpress.com/rt9mVOsf/wp-1607433607593_dvd.mp4
+https://videos.files.wordpress.com/6dl4oyO8/ekeqjameevogel_mp4_dvd.mp4
 
 #EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/quRPh4w.png",======================
 https://videos.files.wordpress.com/LrrmpTEy/serialestart_mp4_dvd.mp4?05
@@ -6990,6 +6813,20 @@ https://liki.gjirafa.com/api/media/gjvideo/y1110k/480/index.m3u8
 https://liki.gjirafa.com/api/media/gjvideo/zxxz1x/480/index.m3u8
 #EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/m18ZkEo.png",[RRUSHE] EP.10 [$]
 https://liki.gjirafa.com/api/media/gjvideo/zxxk0q/480/index.m3u8
+#EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/m18ZkEo.png",[RRUSHE] EP.11 [$]
+https://liki.gjirafa.com/api/media/gjvideo/zxttxx/480/index.m3u8
+#EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/quRPh4w.png",======================
+https://videos.files.wordpress.com/LrrmpTEy/serialestart_mp4_dvd.mp4?001
+#EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/GTB2kfK.png",[PIRUET] EP.01 [$]
+https://videos.files.wordpress.com/3ApxBVOU/piruet28pj.129_dvd.mp4
+#EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/GTB2kfK.png",[PIRUET] EP.02 [$]
+https://videos.files.wordpress.com/pNWqBujQ/piruet28pj.229_dvd.mp4
+#EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/GTB2kfK.png",[PIRUET] EP.03 [$]
+https://videos.files.wordpress.com/z3vxbhh7/piruet28pj.329_dvd.mp4
+#EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/GTB2kfK.png",[PIRUET] EP.04 [$]
+https://videos.files.wordpress.com/gJ7jRIPx/piruet28pj.429_dvd.mp4
+#EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/GTB2kfK.png",[PIRUET] EP.05 [$]
+https://videos.files.wordpress.com/8XXxiWYx/piruet28pj.529_dvd.mp4
 #EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/quRPh4w.png",======================
 https://videos.files.wordpress.com/LrrmpTEy/serialestart_mp4_dvd.mp4?5
 #EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/89boGIr.png",[BENI] EP.01 [$] (GJYSHJA)
@@ -8847,17 +8684,7 @@ https://videos.files.wordpress.com/YGmhDCCw/solo1.2_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/RhK56jh/SOLO.png",[SOLO] SEZ 01 EP 03[$]
 https://videos.files.wordpress.com/0T1pC0WM/solo1.3_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/RhK56jh/SOLO.png",[SOLO] SEZ 01 EP 04[$]
-https://videos.files.wordpress.com/Hykwqx7g/solo1.4_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/76XAaNn.png",======================
-https://videos.files.wordpress.com/5HmpRBN8/netflix_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/mdiaK3K.png",[THE TAKE] SEZ 01 EP 01[$]*
-https://videos.files.wordpress.com/iGElkWw6/take1.1_hd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/mdiaK3K.png",[THE TAKE] SEZ 01 EP 02[$]
-https://videos.files.wordpress.com/kLlRbvhD/take1.2_hd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/mdiaK3K.png",[THE TAKE] SEZ 01 EP 03[$]
-https://videos.files.wordpress.com/ZmddIcZH/take1.3_hd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/mdiaK3K.png",[THE TAKE] SEZ 01 EP 04[$]
-https://videos.files.wordpress.com/s0wfoMZZ/take1.4_hd.mp4 
+https://videos.files.wordpress.com/Hykwqx7g/solo1.4_mp4_dvd.mp4 
 #EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/76XAaNn.png",======================
 https://videos.files.wordpress.com/5HmpRBN8/netflix_mp4_dvd.mp4?2
 #EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/8qbmRhR.png",[SUPERMAN & LOIS] SEZ 01 EP 01[$]*
@@ -9054,22 +8881,6 @@ https://videos.files.wordpress.com/tekzFqnw/i1.5_dvd.mp4
 https://videos.files.wordpress.com/o4OeQuSC/i1.6_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/kbWDH9C.png",[I-LAND] SEZ 01 EP 07[$]
 https://videos.files.wordpress.com/VOOSHiqk/i1.7_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/76XAaNn.png",======================
-https://videos.files.wordpress.com/5HmpRBN8/netflix_mp4_dvd.mp4?12
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/5GnTDwB.png",[QUEEN'S GAMBIT] SEZ 01 EP 01[$]*
-https://videos.files.wordpress.com/WiyI9lIp/qq1.1_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/5GnTDwB.png",[QUEEN'S GAMBIT] SEZ 01 EP 02[$]
-https://videos.files.wordpress.com/UD7QAbhP/qq1.2_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/5GnTDwB.png",[QUEEN'S GAMBIT] SEZ 01 EP 03[$]
-https://videos.files.wordpress.com/Ik2Ytwah/qq1.3_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/5GnTDwB.png",[QUEEN'S GAMBIT] SEZ 01 EP 04[$]
-https://videos.files.wordpress.com/UCIEi3Vp/qq1.4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/5GnTDwB.png",[QUEEN'S GAMBIT] SEZ 01 EP 05[$]
-https://videos.files.wordpress.com/OotHuOxj/qq1.5_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/5GnTDwB.png",[QUEEN'S GAMBIT] SEZ 01 EP 06[$]
-https://videos.files.wordpress.com/SwbW20IT/qq1.6_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/5GnTDwB.png",[QUEEN'S GAMBIT] SEZ 01 EP 07[$]
-https://videos.files.wordpress.com/6focJV55/qq1.7_hd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/76XAaNn.png",======================
 https://videos.files.wordpress.com/5HmpRBN8/netflix_mp4_dvd.mp4?0102
 #EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/I5Hb9t0.png",[50M2] SEZ 01 EP 01[$]*
@@ -10110,84 +9921,6 @@ http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S02E11.mp4/master.m3u8
 http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S02E12.mp4/master.m3u8
 #EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/wl0Crj7.png",[NEW BLACK] SEZ 02 EP 13[$]
 http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S02E13.mp4/master.m3u8
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/76XAaNn.png",======================
-https://videos.files.wordpress.com/5HmpRBN8/netflix_mp4_dvd.mp4?31
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 01 EP 01[$]*
-https://videos.files.wordpress.com/IsciqD8m/cp1.1_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 01 EP 02[$]
-https://videos.files.wordpress.com/HjJy9tY6/cp1.2_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 01 EP 03[$]
-https://videos.files.wordpress.com/DhkLpOnu/cp1.3_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 01 EP 04[$]
-https://videos.files.wordpress.com/Q0Ev8yUN/cp1.4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 01 EP 05[$]
-https://videos.files.wordpress.com/ucT8cFPN/cp1.5_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 01 EP 06[$]
-https://videos.files.wordpress.com/yxzbyZ2j/cp1.6_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 01 EP 07[$]
-https://videos.files.wordpress.com/J3A3Ppy7/cp1.7-1_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 01 EP 08[$]
-https://videos.files.wordpress.com/lkf3xaEg/cp1.8_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 01 EP 09[$]
-https://videos.files.wordpress.com/ItjBMmzm/cp1.9_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 01 EP 10[$]
-https://videos.files.wordpress.com/2iwA6nQd/cp1.10_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 01 EP 11[$]
-https://videos.files.wordpress.com/1KJvJyYg/cp1.11_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 01 EP 12[$]
-https://videos.files.wordpress.com/rXaEsekK/cp1.12_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 01 EP 13[$]
-https://videos.files.wordpress.com/W3aj48bU/cp1.13_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 02 EP 01[$]*
-https://videos.files.wordpress.com/lWhlrZyk/cp2.1_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 02 EP 02[$]
-https://videos.files.wordpress.com/EZLQCLKn/cp2.2_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 02 EP 03[$]
-https://videos.files.wordpress.com/FoY6GZst/cp2.3_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 02 EP 04[$]
-https://videos.files.wordpress.com/ztlpV3iS/cp2.4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 02 EP 05[$]
-https://videos.files.wordpress.com/KYCedRCq/cp2.5_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 02 EP 06[$]
-https://videos.files.wordpress.com/H8VDILKH/cp2.6_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 02 EP 07[$]
-https://videos.files.wordpress.com/z2utFdaW/cp2.7_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 02 EP 08[$]
-https://videos.files.wordpress.com/SQysd1NN/cp2.8_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 02 EP 09[$]
-https://videos.files.wordpress.com/mKKTiqUz/cp2.9_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 03 EP 01[$]*
-https://videos.files.wordpress.com/BqD8oGiM/cp3.1_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 03 EP 02[$]
-https://videos.files.wordpress.com/71a1p98H/cp3.2_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 03 EP 03[$]
-https://videos.files.wordpress.com/Ie4ABtNO/cp3.3_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 03 EP 04[$]
-https://videos.files.wordpress.com/KrHo8RjP/cp3.4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 03 EP 05[$]
-https://videos.files.wordpress.com/gWmKq2mu/cp3.5_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 03 EP 06[$]
-https://videos.files.wordpress.com/YZ6Sm5U2/cp3.6_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 03 EP 07[$]
-https://videos.files.wordpress.com/ckSqqdoI/cp3.7_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 03 EP 08[$]
-https://videos.files.wordpress.com/jh0cGKi7/cp3.8_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 04 EP 01[$]*
-https://videos.files.wordpress.com/l7rLj3YV/cp4.1_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 04 EP 02[$]
-https://videos.files.wordpress.com/NiTPE5s2/cp4.2_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 04 EP 03[$]
-https://videos.files.wordpress.com/QoaHxa9K/cp4.3_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 04 EP 04[$]
-https://videos.files.wordpress.com/GfomfCgJ/cp4.4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 04 EP 05[$]
-https://videos.files.wordpress.com/m4ui4pbO/cp4.5_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 04 EP 06[$]
-https://videos.files.wordpress.com/jNezhKL1/cp4.6_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 04 EP 07[$]
-https://videos.files.wordpress.com/SijANxet/cp4.7_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/A2WX9MO.png",[CASA DE PAPEL] SEZ 04 EP 08[$]
-https://videos.files.wordpress.com/y1IfPeii/cp4.8_dvd.mp4
 
 #EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/cXINlr6.png",======================
 https://videos.files.wordpress.com/9azItHyf/kids_mp4_dvd.mp4?0102
@@ -10507,15 +10240,11 @@ https://eu.shqipbox.app/file/shqipbox/karmen/S2%20E7.mp4
 #EXTINF:-1 group-title="[AL]FILMA(VOD)" tvg-logo="https://i.imgur.com/1Z1Cbnn.jpg",=====>>[PAKETA(VOD)]<<=====
 https://videos.files.wordpress.com/lyxv5p8o/motiongraphicsfile-countdown_high_dvd.mp4
 #EXTINF:-1 group-title="[AL]FILMA(VOD)" tvg-logo="https://i.imgur.com/q8I2xV3.png",[$]FALCO
-https://videos.files.wordpress.com/vQ7QEjmb/falco_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA(VOD)" tvg-logo="https://i.imgur.com/q8I2xV3.png",[$]I LOVE TROPOJA HD
+https://videos.files.wordpress.com/Pd3UF23D/falco_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(VOD)" tvg-logo="https://i.imgur.com/q8I2xV3.png",[$]I LOVE TROPOJA 
 https://eu.shqipbox.app/file/shqipbox/filma/ILOVE.T.ts
-#EXTINF:-1 group-title="[AL]FILMA(VOD)" tvg-logo="https://i.imgur.com/q8I2xV3.png",[$]I LOVE TROPOJA
-https://videos.files.wordpress.com/DomS72b1/tropoja_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA(VOD)" tvg-logo="https://i.imgur.com/q8I2xV3.png",[$]2 GISHT MJALTË HD
+#EXTINF:-1 group-title="[AL]FILMA(VOD)" tvg-logo="https://i.imgur.com/q8I2xV3.png",[$]2 GISHT MJALTË 
 https://eu.shqipbox.app/file/shqipbox/filma/2%20Gisht%20Mjalt%C3%AB.mp4
-#EXTINF:-1 group-title="[AL]FILMA(VOD)" tvg-logo="https://i.imgur.com/q8I2xV3.png",[$]2 GISHT MJALTË
-https://videos.files.wordpress.com/BKetpzgz/2honey_dvd.mp4
 #EXTINF:-1 group-title="[AL]FILMA(VOD)" tvg-logo="https://i.imgur.com/q8I2xV3.png",[$]KUR HESHTIN FEMRAT...
 https://videos.files.wordpress.com/5erF77Vm/elvispupa-kurheshtinfemrat..._215b20135d_hd_dvd.mp4
 #EXTINF:-1 group-title="[AL]FILMA(VOD)" tvg-logo="https://i.imgur.com/q8I2xV3.png",[$]DASHURIA S'MJAFTON
