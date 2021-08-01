@@ -134,6 +134,8 @@ http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/chunklist_w160
 http://live.aritv.ch:6969/live/ari/tv/1.ts
 #EXTINF:-1 group-title="[AL]KOSOVARE" tvg-logo="https://i.imgur.com/WnOigUC.png",[$]TV2 GOSTIVAR HD
 http://93.157.62.180/TV2Gostivar/index.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[AL]KOSOVARE" tvg-logo="https://i.imgur.com/zltMeL3.png",[$]TV TEUTA HD
+http://109.72.96.132:8080/hls/tvteuta.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="[AL]KOSOVARE" tvg-logo="http://www.albepg.com/tvlogi/TV%20Opinion.png",[$]TV OPINION
 http://84.22.33.254/unicast.tvopinion/video.m3u8?token=tv
 #EXTINF:-1 group-title="[AL]KOSOVARE" tvg-logo="https://i.imgur.com/uSKNG8A.png",[$]HAREJA TV
@@ -180,8 +182,10 @@ https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 http://93.157.62.180/BesaTV/index.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="[AL]KOSOVARE" tvg-logo="https://i.ibb.co/gmkc5SJ/t7.jpg",[$]T7 HD
 http://93.157.62.180/T7/index.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="[AL]KOSOVARE" tvg-logo="https://i.imgur.com/H1LW8vn.png",[$]DRITA TV 
+#EXTINF:-1 group-title="[AL]KOSOVARE" tvg-logo="https://i.imgur.com/H1LW8vn.png",[$]DRITA-TV HD
 http://93.157.62.180/DritaTV/index.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[AL]KOSOVARE" tvg-logo="https://i.imgur.com/H1LW8vn.png",[$]DRITA-TV
+https://nesertv.live/DRITATV-5879/index.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="[AL]KOSOVARE" tvg-logo="https://i.ibb.co/S0WGfzc/in.jpg",[$]IN HD
 http://93.157.62.180/INTV/index.m3u8|User-Agent=stream
 
@@ -1208,32 +1212,26 @@ http://ott-albkanale.duckdns.org/out/u/502_1.m3u8
 
 #EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.imgur.com/60iUpeQ.png",======================
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?olty00
-#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.imgur.com/BvRmeoJ.png",[$]RTSH SATELIT HD
-http://178.132.220.2:8001/play/a00h/index.m3u8
+#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="http://www.albepg.com/tvlogi/Alsat-M.png",[$]ALSAT-M HD
+http://tring.mediazonehd.com:8880/alsatmsRQbXDJb9wacRvXLe2cz/video.m3u8 
 #EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.ibb.co/Rc7KDpN/vizion.png",[$]VIZION PLUS HD
-http://178.132.220.2:8001/play/a003/index.m3u8
-#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.ibb.co/2NSLfcm/ktv.png",[$]KTV HD
-http://178.132.220.2:8001/play/a01e/index.m3u8
-#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.ibb.co/sQG2NTt/first.png",[$]FIRST CHANNEL
-http://178.132.220.2:8001/play/a01i/index.m3u8
-#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.ibb.co/hZnyYm4/21.png",[$]RTV21 HD
-http://178.132.220.2:8001/play/a01d/index.m3u8
-#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.ibb.co/gmkc5SJ/t7.jpg",[$]T7 
-http://178.132.220.2:8001/play/a01s/index.m3u8
-#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.ibb.co/GpXDYL9/dukagjini.png",[$]TV DUKAGJINI 
-http://178.132.220.2:8001/play/a01n/index.m3u8
+http://tring.mediazonehd.com:8880/vizionplussRQbXDJb9wacRvXLe2cz/video.m3u8 
+#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV.png",[$]KLAN HD
+http://tring.mediazonehd.com:8880/klansRQbXDJb9wacRvXLe2cz/video.m3u8 
+#EXTINF:-1 group-title="[AL]KUGO-TV" tvg-logo="http://www.albepg.com/tvlogi/RTSH1%20HD.png",[$]RTSH 1HD
+http://edge01eu.ekranet.com/rtshhd_low/index.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[AL]KUGO-TV" tvg-logo="http://www.albepg.com/tvlogi/RTSH2%20HD.png",[$]RTSH 2HD
+http://edge01eu.ekranet.com/rtsh2hd1/index.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[AL]KUGO-TV" tvg-logo="http://www.albepg.com/tvlogi/RTSH3%20HD.png",[$]RTSH 3HD
+http://tring.mediazonehd.com:8880/rtsh3sRQbXDJb9wacRvXLe2cz/video.m3u8 
+#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/A1ZW0CU.png",[$]A-TV 
+http://tring.mediazonehd.com:8880/ATV/video.m3u8 
 #EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="http://www.albepg.com/tvlogi/RTK%201.png",[$]RTK 1HD
-http://178.132.220.2:8001/play/a001/index.m3u8
-#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="http://www.albepg.com/tvlogi/RTK%202.png",[$]RTK 2HD
-http://178.132.220.2:8001/play/a002/index.m3u8
+http://tring.mediazonehd.com:8880/rtk1hdsRQbXDJb9wacRvXLe2cz/video.m3u8 
 #EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.imgur.com/q319E3t.jpg",[$]KANALI 10
-http://178.132.220.2:8001/play/a01h/index.m3u8
-#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="http://www.albepg.com/tvlogi/TV%20Besa.png",[$]TV BESA
-http://178.132.220.2:8001/play/a01k/index.m3u8
-#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.imgur.com/zDf21B2.png",[$]TV MITROVICA HD
-http://178.132.220.2:8001/play/a01j/index.m3u8
-#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.imgur.com/dd5aJyV.png",[$]NESER TV
-http://178.132.220.2:8001/play/a01f/index.m3u8
+http://tring.mediazonehd.com:8880/Kanal10sRQbXDJb9wacRvXLe2cz/video.m3u8 
+#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="http://www.albepg.com/tvlogi/Zjarr%20TV.png",[$]ZJARR TV
+http://edge01eu.ekranet.com/zjarrtv/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.imgur.com/60iUpeQ.png",======================
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?olt0
 #EXTINF:-1 group-title="[AL]KUGO-TV" tvg-logo="https://i.ibb.co/MfQVfSQ/RA1.png",[$]RAI 1
@@ -1250,38 +1248,36 @@ http://212.200.127.243:8080/BNMusic/index.m3u8?token=test
 http://212.200.127.243:8080/DMSat/index.m3u8?token=test
 #EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.imgur.com/DqneOcz.png",[$]BALKANIKA
 http://212.200.127.243:8080/Balkanika/index.m3u8?token=test
-#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="http://www.albepg.com/tvlogi/TV%20Prizreni.png",[$]TV PRIZRENI HD
-http://178.132.220.2:8001/play/a01m/index.m3u8
-#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.imgur.com/al4D3EP.png",[$]TV TEMA HD
-http://178.132.220.2:8001/play/a01p/index.m3u8
-#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.imgur.com/YPXUH7S.png",[$]TV VALI
-http://178.132.220.2:8001/play/a01r/index.m3u8
-#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.imgur.com/Q1cP5zD.png",[$]TV LIRIA
-http://178.132.220.2:8001/play/a01o/index.m3u8
 #EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.imgur.com/60iUpeQ.png",======================
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?olty1
-#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="http://www.albepg.com/tvlogi/Arta.png",[$]ARTA NEWS
-http://178.132.220.2:8001/play/a01t/index.m3u8
 #EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="http://www.albepg.com/tvlogi/Fax%20News.png",[$]FAX NEWS 
-http://178.132.220.2:8001/play/a00i/index.m3u8
-#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="http://www.albepg.com/tvlogi/Report%20TV.png",[$]REPORT TV
+http://edge01eu.ekranet.com/faxnews/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png",[$]ABC NEWS
+http://tring.mediazonehd.com:8880/abcnewssRQbXDJb9wacRvXLe2cz/video.m3u8 
+#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.imgur.com/DUznHG1.png",[$]KANALI 7
+http://tring.mediazonehd.com:8880/kanal7uaishiasfilahsf7887888/video.m3u8 
+#EXTINF:-1 group-title="[AL]KUGO-TV" tvg-logo="http://www.albepg.com/tvlogi/RTSH%2024.png",[$]RTSH 24
+http://tring.mediazonehd.com:8880/rtsh24sRQbXDJb9wacRvXLe2cz/video.m3u8 
+#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="http://www.albepg.com/tvlogi/Report%20TV.png",[$]REPORT-TV HD
+http://tring.mediazonehd.com:8880/ReportTVsRQbXDJb9wacRvXLe2cz/video.m3u8 
+#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="http://www.albepg.com/tvlogi/Report%20TV.png",[$]REPORT-TV
 http://84.22.33.214/ReportTV/index.m3u8?token=tv
 #EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.imgur.com/60iUpeQ.png",======================
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?olty2
 #EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.ibb.co/j5sRSjy/tip-tv.png",[$]Tip TV
-http://178.132.220.2:8001/play/a00f/index.m3u8
-#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.ibb.co/VtjZTcY/kids.jpg",[$]Tring Kids
-http://178.132.220.2:8001/play/a00m/index.m3u8
+http://tring.mediazonehd.com:8880/tiptvsRQbXDJb9wacRvXLe2cz/video.m3u8 
 #EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.ibb.co/RvhZXXp/tring.png",[$]Tring Tring
-http://178.132.220.2:8001/play/a004/index.m3u8
+http://tring.mediazonehd.com:8880/tringtringsRQbXDJb9wacRvXLe2cz/video.m3u8 
+#EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Shkolle.png",[$]RTSH Shkollë 
+http://tring.mediazonehd.com:8880/rtshshkollesRQbXDJb9wacRvXLe2cz/video.m3u8 
 #EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.imgur.com/60iUpeQ.png",======================
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?olty3
 #EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.ibb.co/59CLz6c/history.jpg",[$]Tring History
-http://178.132.220.2:8001/play/a007/index.m3u8
+http://tring.mediazonehd.com:8880/tringhistorysRQbXDJb9wacRvXLe2cz/video.m3u8 
 #EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.ibb.co/y8XMFFQ/planet.jpg",[$]Tring Planet
-http://178.132.220.2:8001/play/a006/index.m3u8
+http://tring.mediazonehd.com:8880/tringplanetsRQbXDJb9wacRvXLe2cz/video.m3u8 
 #EXTINF:0 group-title="[AL]KUGO-TV" tvg-logo="https://i.ibb.co/ZTFhC3X/world.jpg",[$]Tring World
-http://178.132.220.2:8001/play/a005/index.m3u8
+http://tring.mediazonehd.com:8880/tringworldsRQbXDJb9wacRvXLe2cz/video.m3u8 
 
 #EXTINF:-1 group-title="[AL]ALBOX-TV" tvg-logo="https://i.imgur.com/wF6fmgc.png",======================
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?myT
@@ -1685,12 +1681,8 @@ http://130.0.24.6:2831/udp/239.101.43.10:2345
 #EXTINF:0 group-title="[AL]LAJME" tvg-logo="http://www.albepg.com/tvlogi/Arta.png",[$]ARTA NEWS HD
 http://84.22.33.254/unicast.artanews/index.m3u8?token=tv
 
-#EXTINF:0 group-title="[AL]MUZIKE" tvg-logo="https://i.ibb.co/sFj9QYY/folk.jpg",[$]PLANETA FOLK HD
-https://cdn1.mobiletv.bg/T5/planeta/planeta_794613_850k.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]MUZIKE" tvg-logo="https://i.imgur.com/ru6mTBk.jpg",[$]PLANETA HD
 rtsp://stream.teracomm.bg/planeta
-#EXTINF:-1 group-title="[AL]MUZIKE" tvg-logo="https://i.imgur.com/ug8BSMM.png",[$]DM SAT HD
-https://cdn1.mobiletv.bg/T5/dm_sat/dm_sat_794613_850k.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="[AL]MUZIKE" tvg-logo="http://www.albepg.com/tvlogi/Balkanika.png",[$]BALKANIKA HD
 http://84.22.33.254/unicast.ballkanika/index.m3u8?token=tv
 #EXTINF:-1 group-title="[AL]MUZIKE" tvg-logo="http://www.albepg.com/tvlogi/Balkanika.png",[$]BALKANIKA
@@ -1703,8 +1695,6 @@ https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 http://ip2.xxlservices.com:8081/seharatv/mpegts/mpeg.2ts
 #EXTINF:-1 group-title="[AL]MUZIKE" tvg-logo="https://i.imgur.com/i9Lxhgz.png",[$]bn Music HD
 http://130.0.24.6:2831/udp/239.101.43.13:2345
-#EXTINF:-1 group-title="[AL]MUZIKE" tvg-logo="https://i.imgur.com/i9Lxhgz.png",[$]bn Music 
-https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="[AL]MUZIKE" tvg-logo="https://i.ibb.co/ssZ6DQq/1.png",[$]ONE HD 
 http://rtmp.one.by:1300
 #EXTINF:-1 group-title="[AL]MUZIKE" tvg-logo="https://i.imgur.com/MpD2F2b.png",[$]ILIRIA MUSIC HD
@@ -2490,45 +2480,37 @@ http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65596
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65603
 
-#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/zb6kynr/kino1.png",[$]ART-KINO 1HD
-http://93.157.62.180/ArtKino1/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/k8nFzQ2/kino2.png",[$]ART-KINO 2HD
-http://93.157.62.180/ArtKino2/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/Y0NLL1S/kino3.png",[$]ART-KINO 3HD
-http://93.157.62.180/ArtKino3/index.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.imgur.com/Un4NqJC.png",[$]KANAL D-DRAMA HD
+#EXTINF:-1 group-title="[AL]MY-TRING FILM" tvg-logo="https://i.imgur.com/Un4NqJC.png",[$]KANAL D-DRAMA HD
 http://ott-albkanale.duckdns.org/out/u/549_1.m3u8
-#EXTINF:-1 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/PjsCNvQ/jolly.jpg",[$]JOLLY HD
+#EXTINF:-1 group-title="[AL]MY-TRING FILM" tvg-logo="https://i.ibb.co/PjsCNvQ/jolly.jpg",[$]JOLLY HD
 http://ott-albkanale.duckdns.org/out/u/463_1.m3u8
-#EXTINF:-1 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/QPTckxn/LIVING.jpg",[$]LIVING HD
+#EXTINF:-1 group-title="[AL]MY-TRING FILM" tvg-logo="https://i.ibb.co/QPTckxn/LIVING.jpg",[$]LIVING HD
 http://ott-albkanale.duckdns.org/out/u/480_2.m3u8
-#EXTINF:-1 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/qgjN0d7/action.jpg",[$]TRING ACTION HD
+#EXTINF:-1 group-title="[AL]MY-TRING FILM" tvg-logo="https://i.ibb.co/qgjN0d7/action.jpg",[$]TRING ACTION HD
 http://ott-albkanale.duckdns.org/out/u/12_3.m3u8
-#EXTINF:-1 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/2MTHSq9/super.jpg",[$]TRING SUPER HD
+#EXTINF:-1 group-title="[AL]MY-TRING FILM" tvg-logo="https://i.ibb.co/2MTHSq9/super.jpg",[$]TRING SUPER HD
 http://ott-albkanale.duckdns.org/out/u/689_2.m3u8
-#EXTINF:-1 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/0FQrdWL/FAMILY.jpg",[$]TRING FAMILY HD
+#EXTINF:-1 group-title="[AL]MY-TRING FILM" tvg-logo="https://i.ibb.co/0FQrdWL/FAMILY.jpg",[$]TRING FAMILY HD
 http://ott-albkanale.duckdns.org/out/u/673_1.m3u8
-#EXTINF:-1 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/Gc0pNZM/fantasy.jpg",[$]TRING FANTASY 
+#EXTINF:-1 group-title="[AL]MY-TRING FILM" tvg-logo="https://i.ibb.co/Gc0pNZM/fantasy.jpg",[$]TRING FANTASY 
 http://ott-albkanale.duckdns.org/out/u/672_1.m3u8
-#EXTINF:-1 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/pZh0gxg/comedy.jpg",[$]TRING COMEDY
+#EXTINF:-1 group-title="[AL]MY-TRING FILM" tvg-logo="https://i.ibb.co/pZh0gxg/comedy.jpg",[$]TRING COMEDY
 http://ott-albkanale.duckdns.org/out/u/573_1.m3u8
-#EXTINF:-1 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/q7wM3tJ/3.jpg",[$]TRING 3PLUS
+#EXTINF:-1 group-title="[AL]MY-TRING FILM" tvg-logo="https://i.ibb.co/q7wM3tJ/3.jpg",[$]TRING 3PLUS
 http://ott-albkanale.duckdns.org/out/u/31_3.m3u8
-#EXTINF:-1 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/CQBMPvM/shqip.jpg",[$]TRING SHQIP
+#EXTINF:-1 group-title="[AL]MY-TRING FILM" tvg-logo="https://i.ibb.co/CQBMPvM/shqip.jpg",[$]TRING SHQIP
 http://ott-albkanale.duckdns.org/out/u/683_1.m3u8
-#EXTINF:-1 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/cXzCJBp/SMILE.jpg",[$]TRING SMILE
+#EXTINF:-1 group-title="[AL]MY-TRING FILM" tvg-logo="https://i.ibb.co/cXzCJBp/SMILE.jpg",[$]TRING SMILE
 http://ott-albkanale.duckdns.org/out/u/349_3.m3u8
-#EXTINF:-1 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.imgur.com/pvpF6jg.jpg",[$]TRING INTERNATIONAL
+#EXTINF:-1 group-title="[AL]MY-TRING FILM" tvg-logo="https://i.imgur.com/pvpF6jg.jpg",[$]TRING INTERNATIONAL
 http://ott-albkanale.duckdns.org/out/u/609_1.m3u8
-#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="http://www.albepg.com/tvlogi/FOX.png",[$]FOX HD
+#EXTINF:0 group-title="[AL]MY-TRING FILM" tvg-logo="http://www.albepg.com/tvlogi/FOX.png",[$]FOX HD
 http://ott-albkanale.duckdns.org/out/u/372_3.m3u8
-#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="http://www.albepg.com/tvlogi/FOX%20Life.png",[$]FOX LIFE HD
+#EXTINF:0 group-title="[AL]MY-TRING FILM" tvg-logo="http://www.albepg.com/tvlogi/FOX%20Life.png",[$]FOX LIFE HD
 http://ott-albkanale.duckdns.org/out/u/377_2.m3u8
-#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="http://www.albepg.com/tvlogi/FOX%20Crime.png",[$]FOX CRIME HD
+#EXTINF:0 group-title="[AL]MY-TRING FILM" tvg-logo="http://www.albepg.com/tvlogi/FOX%20Crime.png",[$]FOX CRIME HD
 http://ott-albkanale.duckdns.org/out/u/393_1.m3u8
 
-#EXTINF:0 group-title="[AL]ALBOX FILM" tvg-logo="https://i.imgur.com/hqXu63H.png",[$]7HD
-http://84.22.33.254/unicast.7hd/mpegts?token=tv
 #EXTINF:0 group-title="[AL]ALBOX FILM" tvg-logo="https://i.imgur.com/Un4NqJC.png",[$]KANAL DRAMA HD
 http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/157.ts
 #EXTINF:0 group-title="[AL]ALBOX FILM" tvg-logo="https://i.imgur.com/pvpF6jg.jpg",[$]TRING INTERNATIONAL
@@ -2556,56 +2538,67 @@ http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/96.ts
 #EXTINF:0 group-title="[AL]ALBOX FILM" tvg-logo="https://i.imgur.com/TAW88ra.jpg",[$]TRING MUSE
 http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/80.ts
 
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/zb6kynr/kino1.png",[$]ART-KINO 1HD
+http://93.157.62.180/ArtKino1/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/k8nFzQ2/kino2.png",[$]ART-KINO 2HD
+http://93.157.62.180/ArtKino2/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/Y0NLL1S/kino3.png",[$]ART-KINO 3HD
+http://93.157.62.180/ArtKino3/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.imgur.com/hqXu63H.png",[$]7HD
+http://84.22.33.254/unicast.7hd/mpegts?token=tv
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/hgd0mc3/nje.png",[$]FILM NJE HD
+http://62.210.83.172:25461/alkos/terjierjie/24|User-Agent=taoeroeoreoreo
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/3y5TD3K/dy.png",[$]FILM DY HD
+http://62.210.83.172:25461/alkos/terjierjie/21|User-Agent=taoeroeoreoreo
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/nCXQX1h/aksion.png",[$]FILM AKSION HD
+http://62.210.83.172:25461/alkos/terjierjie/18|User-Agent=taoeroeoreoreo
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/5TgmSQM/hits.png",[$]FILM HITS HD
+http://62.210.83.172:25461/alkos/terjierjie/22|User-Agent=taoeroeoreoreo
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/2jygsnF/thriller.png",[$]FILM THRILLER
+http://62.210.83.172:25461/alkos/terjierjie/26|User-Agent=taoeroeoreoreo
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/Jnfwf8P/drame.png",[$]FILM DRAME
+http://62.210.83.172:25461/alkos/terjierjie/20|User-Agent=taoeroeoreoreo
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/CtTSs9L/komedi.png",[$]FILM KOMEDI
+http://62.210.83.172:25461/alkos/terjierjie/23|User-Agent=taoeroeoreoreo
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/g9bHSXf/autor.png",[$]FILM AUTOR
+http://62.210.83.172:25461/alkos/terjierjie/19|User-Agent=taoeroeoreoreo
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/JvQjd1G/t-hd.png",[$]T HD
+http://62.210.83.172:25461/alkos/terjierjie/28|User-Agent=taoeroeoreoreo
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/vZnKS4z/stinet.png",[$]STINET HD
+http://62.210.83.172:25461/alkos/terjierjie/25|User-Agent=taoeroeoreoreo
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/T1rZhb3/tdc.png",[$]TDC HD
+http://62.210.83.172:25461/alkos/terjierjie/27|User-Agent=taoeroeoreoreo
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="http://www.albepg.com/tvlogi/KanalD%20Drama.png",[$]KANAL D DRAMA
+http://62.210.83.172:25461/alkos/terjierjie/72|User-Agent=taoeroeoreoreo
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/PjsCNvQ/jolly.jpg",[$]Jolly HD
+http://62.210.83.172:25461/alkos/terjierjie/33|User-Agent=taoeroeoreoreo
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/q7wM3tJ/3.jpg",[$]Tring 3+
+http://62.210.83.172:25461/alkos/terjierjie/29|User-Agent=taoeroeoreoreo
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/qgjN0d7/action.jpg",[$]Tring Action HD
+http://62.210.83.172:25461/alkos/terjierjie/30|User-Agent=taoeroeoreoreo
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/2MTHSq9/super.jpg",[$]Tring Super HD
+http://62.210.83.172:25461/alkos/terjierjie/38|User-Agent=taoeroeoreoreo
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/pZh0gxg/comedy.jpg",[$]Tring Comedy
+http://62.210.83.172:25461/alkos/terjierjie/31|User-Agent=taoeroeoreoreo
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/Gc0pNZM/fantasy.jpg",[$]Tring Fantasy
+http://62.210.83.172:25461/alkos/terjierjie/32|User-Agent=taoeroeoreoreo
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/pJwDqsS/life.jpg",[$]Tring Life
+http://62.210.83.172:25461/alkos/terjierjie/35|User-Agent=taoeroeoreoreo
+#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.ibb.co/CQBMPvM/shqip.jpg",[$]Tring Shqip
+http://62.210.83.172:25461/alkos/terjierjie/37|User-Agent=taoeroeoreoreo
+
 #EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.imgur.com/SHOUuFF.png",[$]FILMBOX STARS HD
 http://84.22.33.254/unicast.filmboxplus/mpegts?token=tv
 #EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.imgur.com/ywrUhXv.png",[$]FILMBOX EXTRA HD
 http://84.22.33.254/unicast.filmboxextrahd/mpegts?token=tv
 #EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.imgur.com/uGqxbQj.png",[$]FILMBOX ARTHOUSE HD
 http://84.22.33.254/unicast.arthouse/mpegts?token=tv
+#EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.imgur.com/N0F1QHc.png",[$]FAST&FUN BOX HD
+http://84.22.33.254/unicast.fastnfunbox/index.m3u8?token=tv
 #EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.imgur.com/r5HWWqX.png",[$]SCIFI HD
 http://84.22.33.254/unicast.scifi/mpegts?token=tv
 #EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.imgur.com/X8p6fmv.png",[$]AMC HD
 http://84.22.33.254/unicast.amc/mpegts?token=tv
-#EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.ibb.co/hgd0mc3/nje.png",[$]FILM NJE HD
-http://62.210.83.172:25461/alkos/terjierjie/24|User-Agent=taoeroeoreoreo
-#EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.ibb.co/3y5TD3K/dy.png",[$]FILM DY HD
-http://62.210.83.172:25461/alkos/terjierjie/21|User-Agent=taoeroeoreoreo
-#EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.ibb.co/nCXQX1h/aksion.png",[$]FILM AKSION HD
-http://62.210.83.172:25461/alkos/terjierjie/18|User-Agent=taoeroeoreoreo
-#EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.ibb.co/5TgmSQM/hits.png",[$]FILM HITS HD
-http://62.210.83.172:25461/alkos/terjierjie/22|User-Agent=taoeroeoreoreo
-#EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.ibb.co/2jygsnF/thriller.png",[$]FILM THRILLER
-http://62.210.83.172:25461/alkos/terjierjie/26|User-Agent=taoeroeoreoreo
-#EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.ibb.co/Jnfwf8P/drame.png",[$]FILM DRAME
-http://62.210.83.172:25461/alkos/terjierjie/20|User-Agent=taoeroeoreoreo
-#EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.ibb.co/CtTSs9L/komedi.png",[$]FILM KOMEDI
-http://62.210.83.172:25461/alkos/terjierjie/23|User-Agent=taoeroeoreoreo
-#EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.ibb.co/g9bHSXf/autor.png",[$]FILM AUTOR
-http://62.210.83.172:25461/alkos/terjierjie/19|User-Agent=taoeroeoreoreo
-#EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.ibb.co/JvQjd1G/t-hd.png",[$]T HD
-http://62.210.83.172:25461/alkos/terjierjie/28|User-Agent=taoeroeoreoreo
-#EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.ibb.co/vZnKS4z/stinet.png",[$]STINET HD
-http://62.210.83.172:25461/alkos/terjierjie/25|User-Agent=taoeroeoreoreo
-#EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.ibb.co/T1rZhb3/tdc.png",[$]TDC HD
-http://62.210.83.172:25461/alkos/terjierjie/27|User-Agent=taoeroeoreoreo
-#EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="http://www.albepg.com/tvlogi/KanalD%20Drama.png",[$]KANAL D DRAMA
-http://62.210.83.172:25461/alkos/terjierjie/72|User-Agent=taoeroeoreoreo
-#EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.ibb.co/PjsCNvQ/jolly.jpg",[$]Jolly HD
-http://62.210.83.172:25461/alkos/terjierjie/33|User-Agent=taoeroeoreoreo
-#EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.ibb.co/q7wM3tJ/3.jpg",[$]Tring 3+
-http://62.210.83.172:25461/alkos/terjierjie/29|User-Agent=taoeroeoreoreo
-#EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.ibb.co/qgjN0d7/action.jpg",[$]Tring Action HD
-http://62.210.83.172:25461/alkos/terjierjie/30|User-Agent=taoeroeoreoreo
-#EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.ibb.co/2MTHSq9/super.jpg",[$]Tring Super HD
-http://62.210.83.172:25461/alkos/terjierjie/38|User-Agent=taoeroeoreoreo
-#EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.ibb.co/pZh0gxg/comedy.jpg",[$]Tring Comedy
-http://62.210.83.172:25461/alkos/terjierjie/31|User-Agent=taoeroeoreoreo
-#EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.ibb.co/Gc0pNZM/fantasy.jpg",[$]Tring Fantasy
-http://62.210.83.172:25461/alkos/terjierjie/32|User-Agent=taoeroeoreoreo
-#EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.ibb.co/pJwDqsS/life.jpg",[$]Tring Life
-http://62.210.83.172:25461/alkos/terjierjie/35|User-Agent=taoeroeoreoreo
-#EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.ibb.co/CQBMPvM/shqip.jpg",[$]Tring Shqip
-http://62.210.83.172:25461/alkos/terjierjie/37|User-Agent=taoeroeoreoreo
 #EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.imgur.com/VhxGQ7v.png",[$]&FLIX HD
 http://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.imgur.com/0gTliV5.png",[$]&PRIVE HD
@@ -2629,34 +2622,28 @@ http://95.107.132.106/out/u/356_1.m3u8
 https://nesertv.live/fxmediaweb5548/index.m3u8
 #EXTINF:0 group-title="[AL]KUGO FILM" tvg-logo="https://i.imgur.com/98rHqRl.png",[$]START AKSION HD
 http://iptv2.my03.com:5500/live/atv1/8888/222.ts
-#EXTINF:0 group-title="[AL]KUGO FILM" tvg-logo="https://i.imgur.com/hqXu63H.png",[$]7HD
-http://178.132.220.2:8001/play/a00x/index.m3u8
-#EXTINF:0 group-title="[AL]KUGO FILM" tvg-logo="https://i.imgur.com/J9u3Q1z.png",[$]FILMBOX PREMIUM HD
-http://178.132.220.2:8001/play/a017/index.m3u8
-#EXTINF:0 group-title="[AL]KUGO FILM" tvg-logo="https://i.imgur.com/bABFSUQ.png",[$]FILMBOX PLUS HD
-http://178.132.220.2:8001/play/a015/index.m3u8
-#EXTINF:0 group-title="[AL]KUGO FILM" tvg-logo="https://i.imgur.com/SHOUuFF.png",[$]FILMBOX STARS HD
-http://178.132.220.2:8001/play/a016/index.m3u8
-#EXTINF:0 group-title="[AL]KUGO FILM" tvg-logo="https://i.imgur.com/N0F1QHc.png",[$]FAST&FUN BOX HD
-http://178.132.220.2:8001/play/a01b/index.m3u8
+#EXTINF:0 group-title="[AL]KUGO FILM" tvg-logo="http://www.albepg.com/tvlogi/KanalD%20Drama.png",[$]KANAL-D DRAMA HD
+http://tring.mediazonehd.com:8880/kanalddramasRQbXDJb9wacRvXLe2cz/video.m3u8 
 #EXTINF:0 group-title="[AL]KUGO FILM" tvg-logo="https://i.ibb.co/PjsCNvQ/jolly.jpg",[$]Jolly HD
-http://178.132.220.2:8001/play/a00k/index.m3u8
+http://tring.mediazonehd.com:8880/jollyhdsRQbXDJb9wacRvXLe2cz/video.m3u8 
 #EXTINF:0 group-title="[AL]KUGO FILM" tvg-logo="https://i.ibb.co/QPTckxn/LIVING.jpg",[$]Living HD
-http://178.132.220.2:8001/play/a00g/index.m3u8
+http://tring.mediazonehd.com:8880/livinghdsRQbXDJb9wacRvXLe2cz/video.m3u8
+#EXTINF:0 group-title="[AL]KUGO FILM" tvg-logo="https://i.ibb.co/q7wM3tJ/3.jpg",[$]Tring 3+
+http://tring.mediazonehd.com:8880/3plussRQbXDJb9wacRvXLe2cz/video.m3u8  
 #EXTINF:0 group-title="[AL]KUGO FILM" tvg-logo="https://i.ibb.co/qgjN0d7/action.jpg",[$]Tring Action HD
-http://178.132.220.2:8001/play/a00c/index.m3u8
+http://tring.mediazonehd.com:8880/tringactionsRQbXDJb9wacRvXLe2cz/video.m3u8 
 #EXTINF:0 group-title="[AL]KUGO FILM" tvg-logo="https://i.ibb.co/2MTHSq9/super.jpg",[$]Tring Super HD
-http://178.132.220.2:8001/play/a009/index.m3u8
+http://tring.mediazonehd.com:8880/tringsupersRQbXDJb9wacRvXLe2cz/video.m3u8 
 #EXTINF:0 group-title="[AL]KUGO FILM" tvg-logo="https://i.ibb.co/pZh0gxg/comedy.jpg",[$]Tring Comedy
-http://178.132.220.2:8001/play/a00a/index.m3u8
+http://tring.mediazonehd.com:8880/tringcomedysRQbXDJb9wacRvXLe2cz/video.m3u8 
 #EXTINF:0 group-title="[AL]KUGO FILM" tvg-logo="https://i.ibb.co/Gc0pNZM/fantasy.jpg",[$]Tring Fantasy
-http://178.132.220.2:8001/play/a00n/index.m3u8
+http://tring.mediazonehd.com:8880/tringfantasysRQbXDJb9wacRvXLe2cz/video.m3u8 
 #EXTINF:0 group-title="[AL]KUGO FILM" tvg-logo="https://i.ibb.co/pJwDqsS/life.jpg",[$]Tring Life
-http://178.132.220.2:8001/play/a00b/index.m3u8
+http://tring.mediazonehd.com:8880/tringlifesRQbXDJb9wacRvXLe2cz/video.m3u8 
 #EXTINF:0 group-title="[AL]KUGO FILM" tvg-logo="https://i.ibb.co/CQBMPvM/shqip.jpg",[$]Tring Shqip
-http://178.132.220.2:8001/play/a008/index.m3u8
+http://tring.mediazonehd.com:8880/tringshqipsRQbXDJb9wacRvXLe2cz/video.m3u8 
 #EXTINF:0 group-title="[AL]KUGO FILM" tvg-logo="https://i.ibb.co/cXzCJBp/SMILE.jpg",[$]Smile
-http://178.132.220.2:8001/play/a00d/index.m3u8
+http://tring.mediazonehd.com:8880/tringsmilesRQbXDJb9wacRvXLe2cz/video.m3u8 
 
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/Ij2qZNW.png",[$]SUPER SPORT 1HD 
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/429
@@ -2698,16 +2685,14 @@ http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/62.ts
 http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/61.ts
 #EXTINF:-1 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/wvan0wj.png",[$]T-SPORT 4HD 
 http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/60.ts
-#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.ibb.co/T4S693k/k1.jpg",[$]KUJTESA SPORT 1HD
-http://178.132.220.2:8001/play/a00z/index.m3u8
-#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.ibb.co/mvtHpws/k2.jpg",[$]KUJTESA SPORT 2HD
-http://178.132.220.2:8001/play/a010/index.m3u8
-#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.ibb.co/kcHQGjK/k3.jpg",[$]KUJTESA SPORT 3HD
-http://178.132.220.2:8001/play/a011/index.m3u8
-#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.ibb.co/GMzCt64/k4.jpg",[$]KUJTESA SPORT 4HD
-http://178.132.220.2:8001/play/a012/index.m3u8
-#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/2WTxYiv.jpg",[$]KUJTESA SPORT 5HD
-http://178.132.220.2:8001/play/a013/index.m3u8
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%201.png",[$]KUJTESA SPORT 1HD 
+http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/413
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%202.png",[$]KUJTESA SPORT 2HD 
+http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/412
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%203.png",[$]KUJTESA SPORT 3HD 
+http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/411
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%204.png",[$]KUJTESA SPORT 4HD 
+http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/410
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/7tThLaK.jpg",[$]EUROSPORT 1HD 
 http://ott-albkanale.duckdns.org/out/u/509_1.m3u8
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/83HKfdS.jpg",[$]EUROSPORT 2HD 
@@ -6592,6 +6577,8 @@ https://liki.gjirafa.com/api/media/gjvideo/zxxk0q/480/index.m3u8
 https://liki.gjirafa.com/api/media/gjvideo/zxttxx/480/index.m3u8
 #EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/m18ZkEo.png",[RRUSHE] EP.12 [$]
 https://liki.gjirafa.com/api/media/gjvideo/zxtzq1/480/index.m3u8
+#EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/m18ZkEo.png",[RRUSHE] EP.13 [$]
+https://liki.gjirafa.com/api/media/gjvideo/zxtkgg/480/index.m3u8
 #EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/quRPh4w.png",======================
 https://videos.files.wordpress.com/LrrmpTEy/serialestart_mp4_dvd.mp4?001
 #EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/GTB2kfK.png",[PIRUET] EP.01 [$]
@@ -12661,811 +12648,3 @@ https://video2.tizam.cc/files/2287249/lola__obkatka_v_orgiyah.mp4
 https://video2.tizam.cc/files/2354339/porochnoe_rozhdestvo__s_russkim_perevodom.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/APWiwl8.png",[$]MIX ADULT VIDEO 77
 https://video1.tizam.cc/films/sosedi2014.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?18
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 01
-http://nvid100.cdnii.com/2019/0/20190401-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 02
-http://nvid100.cdnii.com/2018/2/20182288-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 03
-http://nvid100.cdnii.com/2019/0/20190822-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 04
-http://nvid100.cdnii.com/2019/0/20190477-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 05
-http://nvid100.cdnii.com/2018/3/20183252-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 06
-http://nvid100.cdnii.com/2018/0/20180768-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 07
-http://nvid100.cdnii.com/2018/2/20182476-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 08
-http://nvid100.cdnii.com/2018/3/20183420-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 09
-http://nvid100.cdnii.com/2018/2/20182359-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 10
-http://nvid100.cdnii.com/2019/0/20190759-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 11
-http://nvid100.cdnii.com/2018/0/20180147-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 12
-http://nvid100.cdnii.com/2019/0/20190150-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 13
-http://nvid100.cdnii.com/2018/3/20183423-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 14
-http://nvid100.cdnii.com/2019/0/20190976-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 15
-http://nvid100.cdnii.com/2019/0/20190560-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 16
-http://nvid100.cdnii.com/2019/0/20190608-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 17
-http://nvid100.cdnii.com/2019/0/20190986-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 18
-http://nvid100.cdnii.com/2018/2/20182106-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 19
-http://nvid100.cdnii.com/2019/0/20190315-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 20
-http://nvid100.cdnii.com/2019/0/20190218-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 21
-http://nvid100.cdnii.com/2019/0/20190694-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 22
-http://nvid100.cdnii.com/2525/252500304-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 23
-http://nvid100.cdnii.com/2018/2/20182284-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 24
-http://nvid100.cdnii.com/2019/0/20190033-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 25
-http://nvid100.cdnii.com/2019/0/20190894-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 26
-http://nvid100.cdnii.com/2018/0/20180625-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 27
-http://nvid100.cdnii.com/2019/0/20190937-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 28
-http://nvid100.cdnii.com/2018/0/20180105-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 29
-http://nvid100.cdnii.com/2018/3/20183547-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 30
-http://nvid100.cdnii.com/2019/0/20190781-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 31
-http://nvid100.cdnii.com/2019/0/20190244-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 32
-http://nvid100.cdnii.com/2018/2/20182512-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 33
-http://nvid100.cdnii.com/2019/0/20190412-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 34
-http://nvid100.cdnii.com/2019/0/20190530-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 35
-http://nvid100.cdnii.com/2525/252500373-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 36
-http://nvid100.cdnii.com/2018/2/20182341-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 37
-http://nvid100.cdnii.com/2018/2/20182244-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 38
-http://nvid100.cdnii.com/2018/2/20182794-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 39
-http://nvid100.cdnii.com/2018/2/20182157-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 40
-http://nvid100.cdnii.com/2018/3/20183229-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 41
-http://nvid100.cdnii.com/2018/3/20183199-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 42
-http://nvid100.cdnii.com/2019/0/20190917-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 43
-http://nvid100.cdnii.com/2018/1/20181961-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 44
-http://nvid100.cdnii.com/2019/0/20190014-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 45
-http://nvid100.cdnii.com/2019/0/20190067-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 46
-http://nvid100.cdnii.com/2018/0/20180435-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 47
-http://nvid100.cdnii.com/2018/1/20181320-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 48
-http://nvid100.cdnii.com/2019/0/20190866-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 49
-http://nvid100.cdnii.com/2019/0/20190978-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 50
-http://nvid100.cdnii.com/2019/1/20191051-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 51
-http://nvid100.cdnii.com/2018/2/20182058-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 52
-http://nvid100.cdnii.com/2018/1/20181770-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 53
-http://nvid100.cdnii.com/2019/0/20190980-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 54
-http://nvid100.cdnii.com/2019/0/20190706-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 55
-http://nvid100.cdnii.com/2018/2/20182422-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 56
-http://nvid100.cdnii.com/2018/2/20182067-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 57
-http://nvid100.cdnii.com/2019/0/20190403-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 58
-http://nvid100.cdnii.com/2019/0/20190810-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 59
-http://nvid100.cdnii.com/2018/3/20183297-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 60
-http://nvid100.cdnii.com/2018/3/20183125-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 61
-http://nvid100.cdnii.com/2019/0/20190965-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 62
-http://nvid100.cdnii.com/2525/252500029-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 63
-http://nvid100.cdnii.com/2018/3/20183128-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 64
-http://nvid100.cdnii.com/2018/2/20182865-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 65
-http://nvid100.cdnii.com/2525/252500356-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 66
-http://nvid100.cdnii.com/2019/0/20190580-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 67
-http://nvid100.cdnii.com/2019/0/20190813-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 68
-http://nvid100.cdnii.com/2018/3/20183393-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 69
-http://nvid100.cdnii.com/2019/0/20190609-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 70
-http://nvid100.cdnii.com/2018/1/20181653-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 71
-http://nvid100.cdnii.com/2019/1/20191027-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 72
-http://nvid100.cdnii.com/2018/3/20183169-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 73
-http://nvid100.cdnii.com/2019/0/20190393-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 74
-http://nvid100.cdnii.com/2019/0/20190954-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 75
-http://nvid100.cdnii.com/2018/0/20180884-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 76
-http://nvid100.cdnii.com/2019/0/20190066-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 77
-http://nvid100.cdnii.com/2019/0/20190847-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 78
-http://nvid100.cdnii.com/2019/0/20190939-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 79
-http://nvid100.cdnii.com/2018/2/20182574-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 80
-http://nvid100.cdnii.com/2019/0/20190661-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 81
-http://nvid100.cdnii.com/2018/2/20182085-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 82
-http://nvid100.cdnii.com/2018/2/20182568-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 83
-http://nvid100.cdnii.com/2018/3/20183689-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 84
-http://nvid100.cdnii.com/2019/0/20190960-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 85
-http://nvid100.cdnii.com/2018/0/20180300-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 86
-http://nvid100.cdnii.com/2018/2/20182377-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 87
-http://nvid100.cdnii.com/2019/0/20190999-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 88
-http://nvid100.cdnii.com/2019/0/20190736-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 89
-http://nvid100.cdnii.com/2018/2/20182336-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 90
-http://nvid100.cdnii.com/2018/3/20183394-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 91
-http://nvid100.cdnii.com/2019/0/20190961-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 92
-http://nvid100.cdnii.com/2019/0/20190007-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 93
-http://nvid100.cdnii.com/2018/2/20182521-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 94
-http://nvid100.cdnii.com/2019/0/20190148-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 95
-http://nvid100.cdnii.com/2525/252500286-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 96
-http://nvid100.cdnii.com/2018/2/20182985-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 97
-http://nvid100.cdnii.com/2525/252500222-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 98
-http://nvid100.cdnii.com/2018/2/20182403-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 99
-http://nvid100.cdnii.com/2019/0/20190784-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 100
-http://nvid100.cdnii.com/2018/1/20181436-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 101
-http://nvid100.cdnii.com/2019/0/20190137-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 102
-http://nvid100.cdnii.com/2018/3/20183629-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 103
-http://nvid100.cdnii.com/2525/252500251-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 104
-http://nvid100.cdnii.com/2018/2/20182573-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 105
-http://nvid100.cdnii.com/2019/0/20190924-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 106
-http://nvid100.cdnii.com/2018/1/20181667-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 107
-http://nvid100.cdnii.com/2019/0/20190411-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 108
-http://nvid100.cdnii.com/2018/2/20182959-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 109
-http://nvid100.cdnii.com/2018/1/20181317-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 110
-http://nvid100.cdnii.com/2525/252500368-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 111
-http://nvid100.cdnii.com/2018/1/20181822-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 112
-http://nvid100.cdnii.com/2019/0/20190488-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 113
-http://nvid100.cdnii.com/2018/1/20181331-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 114
-http://nvid100.cdnii.com/2019/0/20190330-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 115
-http://nvid100.cdnii.com/2018/3/20183706-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 116
-http://nvid100.cdnii.com/2019/0/20190787-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 117
-http://nvid100.cdnii.com/2019/0/20190483-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 118
-http://nvid100.cdnii.com/2019/0/20190996-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 119
-http://nvid100.cdnii.com/2019/0/20190342-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 120
-http://nvid100.cdnii.com/2019/0/20190112-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 121
-http://nvid100.cdnii.com/2018/3/20183516-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 122
-http://nvid100.cdnii.com/2525/252500338-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 123
-http://nvid100.cdnii.com/2018/1/20181459-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 124
-http://nvid100.cdnii.com/2018/3/20183594-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 125
-http://nvid100.cdnii.com/2019/0/20190921-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 126
-http://nvid100.cdnii.com/2018/1/20181869-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 127
-http://nvid100.cdnii.com/2018/2/20182226-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 128
-http://nvid100.cdnii.com/2018/2/20182263-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 129
-http://nvid100.cdnii.com/2018/1/20181241-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 130
-http://nvid100.cdnii.com/2018/0/20180560-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 131
-http://nvid100.cdnii.com/2018/1/20181548-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 132
-http://nvid100.cdnii.com/2525/252500332-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 133
-http://nvid100.cdnii.com/2019/0/20190955-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 134
-http://nvid100.cdnii.com/2019/0/20190149-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 135
-http://nvid100.cdnii.com/2018/2/20182509-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 136
-http://nvid100.cdnii.com/2019/0/20190857-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 137
-http://nvid100.cdnii.com/2019/0/20190734-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 138
-http://nvid100.cdnii.com/2018/2/20182940-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 139
-http://nvid100.cdnii.com/2019/0/20190297-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 140
-http://nvid100.cdnii.com/2019/0/20190612-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 141
-http://nvid100.cdnii.com/2018/3/20183307-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 142
-http://nvid100.cdnii.com/2018/1/20181194-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 143
-http://nvid100.cdnii.com/2018/1/20181765-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 144
-http://nvid100.cdnii.com/2018/2/20182462-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 145
-http://nvid100.cdnii.com/2019/0/20190277-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 146
-http://nvid100.cdnii.com/2019/0/20190889-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 147
-http://nvid100.cdnii.com/2019/0/20190789-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 148
-http://nvid100.cdnii.com/2018/2/20182396-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 149
-http://nvid100.cdnii.com/2019/0/20190536-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 150
-http://nvid100.cdnii.com/2019/0/20190817-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 151
-http://nvid100.cdnii.com/2018/0/20180271-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 152
-http://nvid100.cdnii.com/2525/252500386-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 153
-http://nvid100.cdnii.com/2018/1/20181035-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 154
-http://nvid100.cdnii.com/2018/3/20183295-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 155
-http://nvid100.cdnii.com/2018/3/20183360-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 156
-http://nvid100.cdnii.com/2018/3/20183472-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 157
-http://nvid100.cdnii.com/2019/0/20190690-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 158
-http://nvid100.cdnii.com/2018/2/20182112-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 159
-http://nvid100.cdnii.com/2525/252500372-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 160
-http://nvid100.cdnii.com/2018/2/20182490-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 161
-http://nvid100.cdnii.com/2018/3/20183545-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 162
-http://nvid100.cdnii.com/2018/2/20182675-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 163
-http://nvid100.cdnii.com/2018/0/20180761-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 164
-http://nvid100.cdnii.com/2525/252500319-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 165
-http://nvid100.cdnii.com/2018/2/20182526-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 166
-http://nvid100.cdnii.com/2018/2/20182437-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 167
-http://nvid100.cdnii.com/2019/0/20190795-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 168
-http://nvid100.cdnii.com/2019/0/20190888-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 169
-http://nvid100.cdnii.com/2018/1/20181579-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 170
-http://nvid100.cdnii.com/2018/3/20183447-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 171
-http://nvid100.cdnii.com/2018/0/20180081-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 172
-http://nvid100.cdnii.com/2018/2/20182503-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 173
-http://nvid100.cdnii.com/2018/3/20183152-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 174
-http://nvid100.cdnii.com/2018/2/20182560-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 175
-http://nvid100.cdnii.com/2018/3/20183367-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 176
-http://nvid100.cdnii.com/2019/0/20190333-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 177
-http://nvid100.cdnii.com/2019/0/20190898-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 178
-http://nvid100.cdnii.com/2018/0/20180624-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 179
-http://nvid100.cdnii.com/2019/0/20190909-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 180
-http://nvid100.cdnii.com/2019/0/20190343-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 181
-http://nvid100.cdnii.com/2019/0/20190966-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 182
-http://nvid100.cdnii.com/2018/2/20182218-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 183
-http://nvid100.cdnii.com/2525/252500320-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 184
-http://nvid100.cdnii.com/2019/0/20190949-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 185
-http://nvid100.cdnii.com/2018/2/20182481-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 186
-http://nvid100.cdnii.com/2019/0/20190913-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 187
-http://nvid100.cdnii.com/2019/0/20190031-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 188
-http://nvid100.cdnii.com/2018/0/20180809-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 189
-http://nvid100.cdnii.com/2018/1/20181441-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 190
-http://nvid100.cdnii.com/2018/2/20182533-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 191
-http://nvid100.cdnii.com/2018/3/20183720-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 192
-http://nvid100.cdnii.com/2019/0/20190988-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 193
-http://nvid100.cdnii.com/2019/0/20190346-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 194
-http://nvid100.cdnii.com/2018/2/20182340-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 195
-http://nvid100.cdnii.com/2018/3/20183244-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 196
-http://nvid100.cdnii.com/2018/1/20181679-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 197
-http://nvid100.cdnii.com/2018/0/20180859-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 198
-http://nvid100.cdnii.com/2018/3/20183603-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 199
-http://nvid100.cdnii.com/2018/2/20182434-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 200
-http://nvid100.cdnii.com/2018/2/20182965-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 201
-http://nvid100.cdnii.com/2019/0/20190824-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 202
-http://nvid100.cdnii.com/2018/2/20182584-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 203
-http://nvid100.cdnii.com/2019/0/20190520-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 204
-http://nvid100.cdnii.com/2018/2/20182579-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 205
-http://nvid100.cdnii.com/2018/0/20180832-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 206
-http://nvid100.cdnii.com/2018/2/20182279-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 207
-http://nvid100.cdnii.com/2018/1/20181742-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 208
-http://nvid100.cdnii.com/2018/0/20180192-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 209
-http://nvid100.cdnii.com/2019/1/20191010-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 210
-http://nvid100.cdnii.com/2018/2/20182445-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 211
-http://nvid100.cdnii.com/2019/0/20190953-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 212
-http://nvid100.cdnii.com/2019/0/20190394-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 213
-http://nvid100.cdnii.com/2018/2/20182493-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 214
-http://nvid100.cdnii.com/2019/0/20190700-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 215
-http://nvid100.cdnii.com/2019/0/20190887-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 216
-http://nvid100.cdnii.com/2018/2/20182259-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 217
-http://nvid100.cdnii.com/2019/0/20190366-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 218
-http://nvid100.cdnii.com/2018/2/20182963-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 219
-http://nvid100.cdnii.com/2019/0/20190047-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 220
-http://nvid100.cdnii.com/2019/0/20190358-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 221
-http://nvid100.cdnii.com/2018/2/20182267-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 222
-http://nvid100.cdnii.com/2019/0/20190952-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 223
-http://nvid100.cdnii.com/2019/0/20190311-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 224
-http://nvid100.cdnii.com/2019/0/20190656-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 225
-http://nvid100.cdnii.com/2019/0/20190943-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 226
-http://nvid100.cdnii.com/2019/1/20191034-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 227
-http://nvid100.cdnii.com/2018/0/20180941-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 228
-http://nvid100.cdnii.com/2019/0/20190151-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 229
-http://nvid100.cdnii.com/2019/0/20190844-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 230
-http://nvid100.cdnii.com/2019/0/20190127-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 231
-http://nvid100.cdnii.com/2018/2/20182446-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 232
-http://nvid100.cdnii.com/2019/0/20190554-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 233
-http://nvid100.cdnii.com/2019/0/20190017-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 234
-http://nvid100.cdnii.com/2018/1/20181530-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 235
-http://nvid100.cdnii.com/2018/2/20182713-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 236
-http://nvid100.cdnii.com/2018/2/20182753-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 237
-http://nvid100.cdnii.com/2019/0/20190840-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 238
-http://nvid100.cdnii.com/2019/0/20190886-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 239
-http://nvid100.cdnii.com/2525/252500290-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 240
-http://nvid100.cdnii.com/2018/2/20182229-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 241
-http://nvid100.cdnii.com/2019/0/20190350-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 242
-http://nvid100.cdnii.com/2018/0/20180396-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 243
-http://nvid100.cdnii.com/2019/0/20190351-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 244
-http://nvid100.cdnii.com/2018/2/20182459-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 245
-http://nvid100.cdnii.com/2525/252500378-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 246
-http://nvid100.cdnii.com/2018/3/20183553-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 247
-http://nvid100.cdnii.com/2018/2/20182908-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 248
-http://nvid100.cdnii.com/2019/0/20190735-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 249
-http://nvid100.cdnii.com/2525/252500370-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 250
-http://nvid100.cdnii.com/2018/2/20182337-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 251
-http://nvid100.cdnii.com/2525/252500104-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 252
-http://nvid100.cdnii.com/2019/0/20190458-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 253
-http://nvid100.cdnii.com/2525/252500308-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 254
-http://nvid100.cdnii.com/2019/0/20190500-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 255
-http://nvid100.cdnii.com/2018/2/20182549-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 256
-http://nvid100.cdnii.com/2018/2/20182215-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 257
-http://nvid100.cdnii.com/2018/2/20182301-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 258
-http://nvid100.cdnii.com/2019/0/20190298-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 259
-http://nvid100.cdnii.com/2018/1/20181639-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 260
-http://nvid100.cdnii.com/2018/0/20180261-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 261
-http://nvid100.cdnii.com/2018/3/20183467-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 262
-http://nvid100.cdnii.com/2019/0/20190040-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 263
-http://nvid100.cdnii.com/2019/0/20190043-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 264
-http://nvid100.cdnii.com/2018/2/20182286-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 265
-http://nvid100.cdnii.com/2019/0/20190701-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 266
-http://nvid100.cdnii.com/2018/2/20182260-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 267
-http://nvid100.cdnii.com/2019/0/20190643-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 268
-http://nvid100.cdnii.com/2018/1/20181469-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 269
-http://nvid100.cdnii.com/2019/0/20190055-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 270
-http://nvid100.cdnii.com/2018/2/20182895-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 271
-http://nvid100.cdnii.com/2018/0/20180971-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 272
-http://nvid100.cdnii.com/2019/0/20190644-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 273
-http://nvid100.cdnii.com/2018/2/20182270-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 274
-http://nvid100.cdnii.com/2018/1/20181103-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 275
-http://nvid100.cdnii.com/2525/252500374-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 276
-http://nvid100.cdnii.com/2018/3/20183001-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 277
-http://nvid100.cdnii.com/2019/0/20190303-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 278
-http://nvid100.cdnii.com/2019/1/20191049-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 279
-http://nvid100.cdnii.com/2525/252500385-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 280
-http://nvid100.cdnii.com/2018/2/20182171-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 281
-http://nvid100.cdnii.com/2018/2/20182363-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 282
-http://nvid100.cdnii.com/2018/2/20182489-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 283
-http://nvid100.cdnii.com/2019/0/20190338-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 284
-http://nvid100.cdnii.com/2018/2/20182538-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 285
-http://nvid100.cdnii.com/2018/2/20182285-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 286
-http://nvid100.cdnii.com/2019/0/20190423-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 287
-http://nvid100.cdnii.com/2019/0/20190890-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 288
-http://nvid100.cdnii.com/2018/2/20182015-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 289
-http://nvid100.cdnii.com/2018/2/20182451-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 290
-http://nvid100.cdnii.com/2018/3/20183500-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 291
-http://nvid100.cdnii.com/2525/252500348-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 292
-http://nvid100.cdnii.com/2018/1/20181535-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 293
-http://nvid100.cdnii.com/2019/0/20190140-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 294
-http://nvid100.cdnii.com/2525/252500260-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 295
-http://nvid100.cdnii.com/2019/0/20190429-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 296
-http://nvid100.cdnii.com/2019/0/20190842-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 297
-http://nvid100.cdnii.com/2018/3/20183332-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 298
-http://nvid100.cdnii.com/2019/1/20191039-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 299
-http://nvid100.cdnii.com/2018/3/20183047-720190842-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 297
-http://nvid100.cdnii.com/2018/3/20183332-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 298
-http://nvid100.cdnii.com/2019/1/20191039-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 299
-http://nvid100.cdnii.com/2018/3/20183047-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 300
-http://nvid100.cdnii.com/2019/0/20190432-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 301
-http://nvid100.cdnii.com/2018/3/20183214-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 302
-http://nvid100.cdnii.com/2019/0/20190480-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 303
-http://nvid100.cdnii.com/2018/1/20181500-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 304
-http://nvid100.cdnii.com/2018/2/20182210-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 305
-http://nvid100.cdnii.com/2019/0/20190493-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 306
-http://nvid100.cdnii.com/2019/0/20190993-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 307
-http://nvid100.cdnii.com/2019/0/20190998-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 308
-http://nvid100.cdnii.com/2018/3/20183405-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 309
-http://nvid100.cdnii.com/2018/2/20182759-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 310
-http://nvid100.cdnii.com/2018/3/20183282-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 311
-http://nvid100.cdnii.com/2019/0/20190829-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 312
-http://nvid100.cdnii.com/2525/252500365-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 313
-http://nvid100.cdnii.com/2019/0/20190600-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 314
-http://nvid100.cdnii.com/2018/2/20182577-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 315
-http://nvid100.cdnii.com/2525/252500236-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 316
-http://nvid100.cdnii.com/2019/1/20191011-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 317
-http://nvid100.cdnii.com/2019/0/20190806-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 318
-http://nvid100.cdnii.com/2018/0/20180718-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 319
-http://nvid100.cdnii.com/2525/252500212-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 320
-http://nvid100.cdnii.com/2018/2/20182002-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 321
-http://nvid100.cdnii.com/2018/3/20183580-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 322
-http://nvid100.cdnii.com/2019/0/20190744-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 323
-http://nvid100.cdnii.com/2018/3/20183691-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 324
-http://nvid100.cdnii.com/2018/2/20182036-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 325
-http://nvid100.cdnii.com/2019/1/20191015-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 326
-http://nvid100.cdnii.com/2018/2/20182669-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 327
-http://nvid100.cdnii.com/2018/2/20182120-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 328
-http://nvid100.cdnii.com/2525/252500299-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 329
-http://nvid100.cdnii.com/2019/0/20190637-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 330
-http://nvid100.cdnii.com/2019/0/20190944-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 331
-http://nvid100.cdnii.com/2018/2/20182555-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 332
-http://nvid100.cdnii.com/2019/0/20190666-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 333
-http://nvid100.cdnii.com/2018/2/20182899-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 334
-http://nvid100.cdnii.com/2018/2/20182378-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 335
-http://nvid100.cdnii.com/2018/3/20183144-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 336
-http://nvid100.cdnii.com/2018/2/20182755-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 337
-http://nvid100.cdnii.com/2018/3/20183343-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 338
-http://nvid100.cdnii.com/2019/0/20190004-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 339
-http://nvid100.cdnii.com/2018/3/20183388-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 340
-http://nvid100.cdnii.com/2019/0/20190900-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 341
-http://nvid100.cdnii.com/2019/0/20190129-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 342
-http://nvid100.cdnii.com/2525/252500327-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 343
-http://nvid100.cdnii.com/2018/3/20183410-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 344
-http://nvid100.cdnii.com/2018/2/20182540-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 345
-http://nvid100.cdnii.com/2525/252500316-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 346
-http://nvid100.cdnii.com/2019/0/20190933-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 347
-http://nvid100.cdnii.com/2019/0/20190922-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 348
-http://nvid100.cdnii.com/2018/1/20181063-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 349
-http://nvid100.cdnii.com/2019/0/20190503-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 350
-http://nvid100.cdnii.com/2018/3/20183070-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 351
-http://nvid100.cdnii.com/2018/3/20183064-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 352
-http://nvid100.cdnii.com/2018/3/20183188-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 353
-http://nvid100.cdnii.com/2019/0/20190093-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 354
-http://nvid100.cdnii.com/2018/3/20183659-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 355
-http://nvid100.cdnii.com/2019/0/20190731-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 356
-http://nvid100.cdnii.com/2019/0/20190833-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 357
-http://nvid100.cdnii.com/2019/0/20190105-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 358
-http://nvid100.cdnii.com/2018/2/20182700-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 359
-http://nvid100.cdnii.com/2018/2/20182693-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 360
-http://nvid100.cdnii.com/2019/0/20190450-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 361
-http://nvid100.cdnii.com/2019/0/20190590-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 362
-http://nvid100.cdnii.com/2018/2/20182064-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 363
-http://nvid100.cdnii.com/2018/3/20183400-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 364
-http://nvid100.cdnii.com/2018/2/20182454-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 365
-http://nvid100.cdnii.com/2019/0/20190521-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 366
-http://nvid100.cdnii.com/2019/0/20190194-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 367
-http://nvid100.cdnii.com/2018/3/20183335-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 368
-http://nvid100.cdnii.com/2525/252500239-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 369
-http://nvid100.cdnii.com/2019/0/20190567-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 370
-http://nvid100.cdnii.com/2019/0/20190323-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 371
-http://nvid100.cdnii.com/2018/2/20182252-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 372
-http://nvid100.cdnii.com/2019/0/20190370-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 373
-http://nvid100.cdnii.com/2525/252500061-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 374
-http://nvid100.cdnii.com/2019/0/20190558-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 375
-http://nvid100.cdnii.com/2018/1/20181557-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 376
-http://nvid100.cdnii.com/2018/2/20182390-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 377
-http://nvid100.cdnii.com/2018/3/20183012-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 378
-http://nvid100.cdnii.com/2019/1/20191042-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 379
-http://nvid100.cdnii.com/2019/0/20190276-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 380
-http://nvid100.cdnii.com/2018/3/20183329-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 381
-http://nvid100.cdnii.com/2019/0/20190396-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 382
-http://nvid100.cdnii.com/2018/1/20181924-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 383
-http://nvid100.cdnii.com/2525/252500226-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 384
-http://nvid100.cdnii.com/2018/2/20182859-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 385
-http://nvid100.cdnii.com/2018/2/20182951-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 386
-http://nvid100.cdnii.com/2019/0/20190973-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 387
-http://nvid100.cdnii.com/2019/0/20190830-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 388
-http://nvid100.cdnii.com/2019/0/20190942-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 389
-http://nvid100.cdnii.com/2018/2/20182017-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 390
-http://nvid100.cdnii.com/2018/2/20182997-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 391
-http://nvid100.cdnii.com/2019/0/20190928-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 392
-http://nvid100.cdnii.com/2018/2/20182376-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 393
-http://nvid100.cdnii.com/2019/0/20190575-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 394
-http://nvid100.cdnii.com/2019/0/20190737-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 395
-http://nvid100.cdnii.com/2018/3/20183583-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 396
-http://nvid100.cdnii.com/2019/0/20190431-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 397
-http://nvid100.cdnii.com/2018/2/20182129-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 398
-http://nvid100.cdnii.com/2019/0/20190816-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 399
-http://nvid100.cdnii.com/2019/0/20190486-720p.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/q8YVpJ6.png",[$]XXX VIDEO 400
-http://nvid100.cdnii.com/2019/0/20190594-720p.mp4
