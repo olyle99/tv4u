@@ -852,6 +852,159 @@ http://restream.tivivo.cc:25461/T6IoMyJMpP/Z7GUrEbvbo/1843
 #EXTINF:0 group-title="[AL]ILIRIA-TV" tvg-logo="http://www.albepg.com/tvlogi/Travel%20Channel.png",[$]Travel Channel  HD
 http://restream.tivivo.cc:25461/T6IoMyJMpP/Z7GUrEbvbo/1842
 
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/eFpGKtd.jpg",======================
+https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?plisi1
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Top%20Channel.png",[$]TOP CHANNEL HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2435
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png",[$]VIZION PLUS HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2393
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png",[$]VIZION PLUS
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2433
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV.png",[$]KLAN HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2438
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Kosova.png",[$]KLAN KOSOVA HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/10174
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Alsat-M.png",[$]ALSAT-M HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2441
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/RTK%201.png",[$]RTK 1HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2452
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/RTK%202.png",[$]RTK 2HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/9820
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/RTK%203.png",[$]RTK 3HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2450
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/RTK%204.png",[$]RTK 4HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2449
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/ALBUK%20TV.png",[$]ALB UK
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2352
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/ERA%20TV.png",[$]ERA TV
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2311
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/RTSH1%20HD.png",[$]RTSH 1HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2431
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/RTSH2%20HD.png",[$]RTSH 2HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2429
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/RTSH3%20HD.png",[$]RTSH 3HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2428
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Korca.png",[$]RTSH KORCA
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2402
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/gglym5X.png",[$]RTSH GJIROKASTRA
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2389
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Koha%20Vision%20HD.png",[$]KTV
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2444
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Koha%20TV.png",[$]KOHA
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2319
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/RTV%2021%20HD.png",[$]RTV21 
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2447
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/9zGGDBJ.png",[$]STAR PLUS
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2291
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/4zSlxA5.png",[$]TV ROZAFA
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56619
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/uquIZq7.png",[$]TV1 CHANNEL
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56646
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/Xz0TL6i.png",[$]T7
+http://test.satlok.club:80/testskype1/6q60C0QwC4/46082
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/al4D3EP.png",[$]TV TEMA
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2217
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/TV%20Dukagjini.png",[$]DUKAGJINI
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2304
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/5Xo1rVg.png",[$]ALBANIAN TV CHICAGO
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56627
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/H1LW8vn.png",[$]DRITA TV
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56637
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Shenja%20TV.png",[$]TV SHENJA
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56616
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/siAClyc.png",[$]RTV ALDI
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56621
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/TV%20Besa.png",[$]TV BESA
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56661
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Zjarr%20TV.png",[$]ZJARR TV
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56647
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/eFpGKtd.jpg",======================
+https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?plisi2
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/ebWfzBR.png",[$]SCAN TV
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56623
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/tyOiY8j.png",[$]TOP NEWS
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2282
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Fax%20News.png",[$]FAX NEWS
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2275
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/dP2raxc.jpg",[$]ABC NEWS
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2285
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Arta.png",[$]ARTA NEWS
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2276
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/7%20News.png",[$]KANALI 7
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2278
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/RTSH%2024.png",[$]RTSH 24
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2356
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/JWpMoCz.png",[$]ORA NEWS
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2286
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Report%20TV.png",[$]REPORT TV
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2295
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/eFpGKtd.jpg",======================
+https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?plisi3
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Femije.png",[$]RTSH FEMIJE
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2359
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Baby%20TV.png",[$]BABY TV
+http://test.satlok.club:80/testskype1/6q60C0QwC4/22130
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Cufo%20TV.png",[$]CUFO TV
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2215
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Bang%20Bang.png",[$]BANG BANG
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2214
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Junior.png",[$]JUNIOR TV
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2212
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Tip%20TV.png",[$]TIP TV
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2206
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Tring.png",[$]TRING TRING
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2208
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Kids.png",[$]TRING KIDS
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56614
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/eFpGKtd.jpg",======================
+https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?plisi4
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/IgMdV4s.png",[$]BLUE SKY HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2334
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/IgMdV4s.png",[$]BLUE SKY
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56620
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/SuperSonic%20TV.png",[$]SUPERSONIC TV
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2242
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/jydUJXb.jpg",[$]VALI
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2226
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Click%20TV.png",[$]CLICK TV
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2218
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Elrodi%20TV.png",[$]ELRODI TV
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2239
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/ETunXau.png",[$]FIRST CHANNEL
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2322
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Folk%20Plus.png",[$]FOLK PLUS
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2238
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/MFM.png",[$]MFM MUSIC
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2235
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/My%20Music.png",[$]MY MUSIC
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2248
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Top%20Estrada.png",[$]TOP ESTRADA
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2234
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/qPEeVBP.jpg",[$]TV SHARRI
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2297
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/ApL5Mdb.jpg",[$]ISTOGU CHANNEL
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56636
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/Zv0EMrm.jpg",[$]TV LIRIA
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56617
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/9cmb7Sv.jpg",[$]PRESHEVA TV
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56626
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Zico%20TV.png",[$]ZICO TV
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56629
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="https://i.imgur.com/eFpGKtd.jpg",======================
+https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?plisi5
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Histori.png",[$]EXP.HISTORI
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2330
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Natyra.png",[$]EXP.NATYRA
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2332
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Shkence.png",[$]EXP.SHKENCE
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2331
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Tring%20World.png",[$]TRING WORLD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2327
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Planet.png",[$]TRING PLANET
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2326
+#EXTINF:0 group-title="[AL]PLISI-TV" tvg-logo="http://www.albepg.com/tvlogi/Tring%20History.png",[$]TRING HISTORY
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2329
+
 #EXTINF:0 group-title="[AL]KUDO-TV" tvg-logo="https://i.imgur.com/Xg4DHnS.png",======================
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?kudo
 #EXTINF:0 group-title="[AL]KUDO-TV" tvg-logo="http://www.albepg.com/tvlogi/Top%20Channel.png",[$]TOP CHANNEL HD
@@ -2289,6 +2442,93 @@ http://restream.tivivo.cc:25461/T6IoMyJMpP/Z7GUrEbvbo/64
 #EXTINF:0 group-title="[AL]ILIRIA FILM" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Film.png",[$]RTSH FILM HD
 http://restream.tivivo.cc:25461/T6IoMyJMpP/Z7GUrEbvbo/28
 
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.imgur.com/GtZG2rz.png",[$]8 ACTION HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/57234
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.imgur.com/AoToNPE.png",[$]8 DRAME HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/57236
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.imgur.com/tkyxvtF.png",[$]9 KOMEDI HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/57237
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.imgur.com/F0aQzZC.png",[$]8 THRILLER HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/57235
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.imgur.com/47IwYv8.png",[$]8 GJURME SHQIPTARE HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/57237
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.imgur.com/sZjdcxW.png",[$]WEBSTAR CINEMA HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/57225
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.imgur.com/Kpvwdpt.png",[$]WEBSTAR THRILLER HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/57226
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.imgur.com/MGOCCu6.png",[$]WEBSTAR ACTION HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/57223
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.imgur.com/CExn746.png",[$]WEBSTAR DRAME HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/57230
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.imgur.com/ihnZEnh.png",[$]WEBSTAR HUMOR HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/57228
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.imgur.com/Q6ZjCnQ.png",[$]KINEMA+ GOLD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2412
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.imgur.com/5Dq1Fwc.png",[$]KINEMA+ AKSION HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56651
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.imgur.com/iQ9NI2H.png",[$]KINEMA+ MAX HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56652
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.imgur.com/YQizbX1.png",[$]KINEMA+ CLASSICS HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56653
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.imgur.com/Hz1rw3u.png",[$]KINEMA+ DRAME HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56654
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.imgur.com/l30UHLz.png",[$]KINEMA+ FAMILY HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56655
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="https://i.imgur.com/GAesqp5.png",[$]SKY AKSION HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2339
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/EPISODE.png",[$]SKY EPISODE HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56649
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/Film%20Nje%20HD.png",[$]FILM NJE HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2404
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png",[$]FILM AKSION HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2408
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png",[$]FILM HITS HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2400
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/Film%20Thriller.png",[$]FILM THRILLER
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2406
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/Film%20Komedi.png",[$]FILM KOMEDI
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2405
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/Film%20Drame.png",[$]FILM DRAME
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2398
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/Film%20Autor.png",[$]FILM AUTOR
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2397
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/Family%20HD.png",[$]FAMILY HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2395
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/Stinet.png",[$]STINET HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2401
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/T%20HD.png",[$]T HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2421
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/EUROFILM.png",[$]EUROFILM 
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56622
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/TDC.png",[$]TDC
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56663
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/KanalD%20Drama.png",[$]KANAL D DRAMA
+http://test.satlok.club:80/testskype1/6q60C0QwC4/56662
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/Jolly%20HD.png",[$]Jolly HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2392
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Super.png",[$]Tring Super HD 
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2388
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Action.png",[$]Tring Action HD
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2387
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Comedy.png",[$]Tring Comedy
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2385
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Fantasy.png",[$]Tring Fantasy
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2386
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Life.png",[$]Tring Life
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2380
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/3%20Plus.png",[$]Tring 3+
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2379
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Shqip.png",[$]Tring Shqip
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2313
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/Smile.png",[$]Tring SMILE
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2384
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Film.png",[$]RTSH FILM
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2430
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Shqip.png",[$]RTSH SHQIP
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2426
+#EXTINF:0 group-title="[AL]PLISI FILM" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Plus.png",[$]RTSH PLUS
+http://test.satlok.club:80/testskype1/6q60C0QwC4/2411
+
 #EXTINF:0 group-title="[AL]AMIKO FILM" tvg-logo="https://i.imgur.com/DVmRS4W.png",[$]TELEONE 1HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17517
 #EXTINF:0 group-title="[AL]AMIKO FILM" tvg-logo="https://i.imgur.com/DVmRS4W.png",[$]TELEONE 2HD
@@ -2605,8 +2845,6 @@ http://84.22.33.254/unicast.fastnfunbox/index.m3u8?token=tv
 http://84.22.33.254/unicast.scifi/mpegts?token=tv
 #EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.imgur.com/X8p6fmv.png",[$]AMC HD
 http://84.22.33.254/unicast.amc/mpegts?token=tv
-#EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.imgur.com/dAPDqyq.png",[$]DIVA HD
-http://84.22.33.254/unicast.diva/mpegts?token=tv
 #EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.imgur.com/jCUHoez.png",[$]E! HD
 http://84.22.33.254/unicast.e/mpegts?token=tv
 #EXTINF:0 group-title="[AL]BOX FILM" tvg-logo="https://i.imgur.com/VhxGQ7v.png",[$]&FLIX HD
@@ -4454,36 +4692,6 @@ http://94.250.61.10:8000/play/a05a
 http://94.250.61.10:8000/play/a07c
 #EXTINF:-1 group-title="[SR]KANALE SERBE" tvg-logo="https://i.imgur.com/Ym90qbs.png",[$]SUPERSTAR-TV
 http://94.250.61.10:8000/play/a06u
-#EXTINF:-1 group-title="[SR]KANALE SERBE" tvg-logo="https://i.imgur.com/2PfPfut.png",[$]PINK THRILLER 
-http://91.212.150.248:80/PinkThriller/index.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="[SR]KANALE SERBE" tvg-logo="https://i.imgur.com/Y0yuuiI.png",[$]PINK ACTION
-http://91.212.150.248:80/PinkAction/index.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="[SR]KANALE SERBE" tvg-logo="https://i.imgur.com/P95mZG1.png",[$]PINK HORROR
-http://91.212.150.248:80/PinkHorror/index.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="[SR]KANALE SERBE" tvg-logo="https://i.imgur.com/I0gSLGQ.png",[$]PINK PREMIUM
-http://91.212.150.248:80/PinkPremium/index.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="[SR]KANALE SERBE" tvg-logo="https://i.imgur.com/ZLJpw67.png",[$]PINK WORLD CINEMA
-http://91.212.150.248:80/PinkWorldCinema/index.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="[SR]KANALE SERBE" tvg-logo="https://i.imgur.com/jr0KAD7.png",[$]PINK MOVIES
-http://91.212.150.248:80/PinkMovies/index.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="[SR]KANALE SERBE" tvg-logo="https://i.imgur.com/97z5QQ4.png",[$]PINK FAMILY
-http://91.212.150.248:80/PinkFamily/index.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="[SR]KANALE SERBE" tvg-logo="https://i.imgur.com/5C9B73J.png",[$]PINK FILM
-http://91.212.150.248:80/PinkFilm/index.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="[SR]KANALE SERBE" tvg-logo="https://i.imgur.com/c1B4oOX.png",[$]PINK WESTERN
-http://91.212.150.248:80/PinkWestern/index.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="[SR]KANALE SERBE" tvg-logo="https://i.imgur.com/2kwGcGi.png",[$]PINK COMEDY
-http://91.212.150.248:80/PinkComedy/index.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="[SR]KANALE SERBE" tvg-logo="https://i.imgur.com/gNz8mep.png",[$]PINK CLASSIC
-http://91.212.150.248:80/PinkClassic/index.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="[SR]KANALE SERBE" tvg-logo="https://i.imgur.com/pDnoM3e.png",[$]PINK SERIJE
-http://91.212.150.248:80/PinkSerije/index.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="[SR]KANALE SERBE" tvg-logo="https://i.imgur.com/ZtGUvy2.png",[$]PINK ROMANCE
-http://91.212.150.248:80/PinkRomance/index.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="[SR]KANALE SERBE" tvg-logo="https://i.imgur.com/f7fe4uU.png",[$]PINK REALITY
-http://91.212.150.248:80/PinkReality/index.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="[SR]KANALE SERBE" tvg-logo="https://i.imgur.com/NsXU71i.png",[$]PINK EXTRA
-http://91.212.150.248:80/PinkExtra/index.m3u8|User-Agent=stream
 
 #EXTINF:-1 group-title="[CZ]KANALE ÇEKE" tvg-logo="https://i.ibb.co/9ckFqCs/ONE.png",[$]DUBAI'ONE HD
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/media.m3u8
