@@ -6053,6 +6053,11 @@ http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 https://www.ast.tv/stream/1/high.m3u8
 #EXTINF:-1 group-title="[WL]ADULT STREAM[+18]" tvg-logo="https://i.ibb.co/nDJMNyx/as.png",[$]astv2
 https://www.ast.tv/stream/2/high.m3u8
+#EXTINF:-1 group-title="[WL]ADULT STREAM[+18]" tvg-logo="https://i.imgur.com/EDLgvlG.png",[$]YOUR PORN 24/7
+https://cutt.ly/ehBsTvI
+#EXTINF:-1 group-title="[WL]ADULT STREAM[+18]" tvg-logo="https://i.imgur.com/5U9uCrP.png",[$]BRAZZERS 24/7
+https://cutt.ly/IhBsGxW
+#EXTINF:-1 group-title="[WL]ADULT STREAM[+18]" tvg-logo="https://i.imgur.com/uTtNuUm.png",[$]MOFOS 24/7
 https://cutt.ly/thBsMeW
 #EXTINF:-1 group-title="[WL]ADULT STREAM[+18]" tvg-logo="https://i.imgur.com/AdzTUPN.jpg",[$]REALITY KINGS 24/7
 https://cutt.ly/khBs9TL
@@ -12703,132 +12708,6 @@ http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_giannan
 http://12156.vod.redtraffic.xyz/ph5bd9e6e6496bb/play.m3u8
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
 https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?16
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/EDLgvlG.png",[$]YOUR PORN 1HD
-https://cutt.ly/ehBsTvI
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/EDLgvlG.png",[$]YOUR PORN 2HD
-https://cutt.ly/ehBsTvI
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/EDLgvlG.png",[$]YOUR PORN 3HD
-https://cutt.ly/ehBsTvI
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/EDLgvlG.png",[$]YOUR PORN 4HD
-https://cutt.ly/ehBsTvI
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/EDLgvlG.png",[$]YOUR PORN 5HD
-https://cutt.ly/ehBsTvI
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/EDLgvlG.png",[$]YOUR PORN 6HD
-https://cutt.ly/ehBsTvI
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/EDLgvlG.png",[$]YOUR PORN 7HD
-https://cutt.ly/ehBsTvI
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/EDLgvlG.png",[$]YOUR PORN 8HD
-https://cutt.ly/ehBsTvI
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/EDLgvlG.png",[$]YOUR PORN 9HD
-https://cutt.ly/ehBsTvI
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/EDLgvlG.png",[$]YOUR PORN 10HD
-https://cutt.ly/ehBsTvI
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/EDLgvlG.png",[$]YOUR PORN 11HD
-https://cutt.ly/ehBsTvI
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/EDLgvlG.png",[$]YOUR PORN 12HD
-https://cutt.ly/ehBsTvI
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/EDLgvlG.png",[$]YOUR PORN 13HD
-https://cutt.ly/ehBsTvI
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/EDLgvlG.png",[$]YOUR PORN 14HD
-https://cutt.ly/ehBsTvI
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/EDLgvlG.png",[$]YOUR PORN 15HD
-https://cutt.ly/ehBsTvI
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/EDLgvlG.png",[$]YOUR PORN 16HD
-https://cutt.ly/ehBsTvI
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/EDLgvlG.png",[$]YOUR PORN 17HD
-https://cutt.ly/ehBsTvI
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/EDLgvlG.png",[$]YOUR PORN 18HD
-https://cutt.ly/ehBsTvI
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/EDLgvlG.png",[$]YOUR PORN 19HD
-https://cutt.ly/ehBsTvI
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/EDLgvlG.png",[$]YOUR PORN 20HD
-https://cutt.ly/ehBsTvI
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?17
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/5U9uCrP.png",[$]BRAZZERS 1HD
-https://cutt.ly/IhBsGxW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/5U9uCrP.png",[$]BRAZZERS 2HD
-https://cutt.ly/IhBsGxW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/5U9uCrP.png",[$]BRAZZERS 3HD
-https://cutt.ly/IhBsGxW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/5U9uCrP.png",[$]BRAZZERS 4HD
-https://cutt.ly/IhBsGxW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/5U9uCrP.png",[$]BRAZZERS 5HD
-https://cutt.ly/IhBsGxW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/5U9uCrP.png",[$]BRAZZERS 6HD
-https://cutt.ly/IhBsGxW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/5U9uCrP.png",[$]BRAZZERS 7HD
-https://cutt.ly/IhBsGxW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/5U9uCrP.png",[$]BRAZZERS 8HD
-https://cutt.ly/IhBsGxW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/5U9uCrP.png",[$]BRAZZERS 9HD
-https://cutt.ly/IhBsGxW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/5U9uCrP.png",[$]BRAZZERS 10HD
-https://cutt.ly/IhBsGxW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/5U9uCrP.png",[$]BRAZZERS 11HD
-https://cutt.ly/IhBsGxW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/5U9uCrP.png",[$]BRAZZERS 12HD
-https://cutt.ly/IhBsGxW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/5U9uCrP.png",[$]BRAZZERS 13HD
-https://cutt.ly/IhBsGxW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/5U9uCrP.png",[$]BRAZZERS 14HD
-https://cutt.ly/IhBsGxW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/5U9uCrP.png",[$]BRAZZERS 15HD
-https://cutt.ly/IhBsGxW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/5U9uCrP.png",[$]BRAZZERS 16HD
-https://cutt.ly/IhBsGxW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/5U9uCrP.png",[$]BRAZZERS 17HD
-https://cutt.ly/IhBsGxW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/5U9uCrP.png",[$]BRAZZERS 18HD
-https://cutt.ly/IhBsGxW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/5U9uCrP.png",[$]BRAZZERS 19HD
-https://cutt.ly/IhBsGxW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/5U9uCrP.png",[$]BRAZZERS 20HD
-https://cutt.ly/IhBsGxW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?18
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/uTtNuUm.png",[$]MOFOS 1HD
-https://cutt.ly/thBsMeW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/uTtNuUm.png",[$]MOFOS 2HD
-https://cutt.ly/thBsMeW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/uTtNuUm.png",[$]MOFOS 3HD
-https://cutt.ly/thBsMeW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/uTtNuUm.png",[$]MOFOS 4HD
-https://cutt.ly/thBsMeW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/uTtNuUm.png",[$]MOFOS 5HD
-https://cutt.ly/thBsMeW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/uTtNuUm.png",[$]MOFOS 6HD
-https://cutt.ly/thBsMeW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/uTtNuUm.png",[$]MOFOS 7HD
-https://cutt.ly/thBsMeW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/uTtNuUm.png",[$]MOFOS 8HD
-https://cutt.ly/thBsMeW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/uTtNuUm.png",[$]MOFOS 9HD
-https://cutt.ly/thBsMeW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/uTtNuUm.png",[$]MOFOS 10HD
-https://cutt.ly/thBsMeW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/uTtNuUm.png",[$]MOFOS 11HD
-https://cutt.ly/thBsMeW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/uTtNuUm.png",[$]MOFOS 12HD
-https://cutt.ly/thBsMeW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/uTtNuUm.png",[$]MOFOS 13HD
-https://cutt.ly/thBsMeW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/uTtNuUm.png",[$]MOFOS 14HD
-https://cutt.ly/thBsMeW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/uTtNuUm.png",[$]MOFOS 15HD
-https://cutt.ly/thBsMeW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/uTtNuUm.png",[$]MOFOS 16HD
-https://cutt.ly/thBsMeW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/uTtNuUm.png",[$]MOFOS 17HD
-https://cutt.ly/thBsMeW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/uTtNuUm.png",[$]MOFOS 18HD
-https://cutt.ly/thBsMeW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/uTtNuUm.png",[$]MOFOS 19HD
-https://cutt.ly/thBsMeW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/uTtNuUm.png",[$]MOFOS 20HD
-https://cutt.ly/thBsMeW
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?19
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hmwZ53s.png",[$]PureMature-01 
 http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb02/fb02_nicoleaniston2/content/vid01.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hmwZ53s.png",[$]PureMature-02
