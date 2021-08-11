@@ -1795,6 +1795,8 @@ http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/141.ts
 http://93.157.62.180/A2CNN/mpegts|User-Agent=stream
 #EXTINF:0 group-title="[AL]LAJME" tvg-logo="https://i.ibb.co/51TnwZt/topnews.jpg",[$]TOP NEWS HD
 http://93.157.62.180/TopNews/mpegts|User-Agent=stream
+#EXTINF:0 group-title="[AL]LAJME" tvg-logo="https://i.ibb.co/51TnwZt/topnews.jpg",[$]TOP NEWS
+https://stream-10.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irbgonSFRDqbEEUTBuwVRQso)/dm/3/x6inuzo/s/live-0.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]LAJME" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png",[$]ABC NEWS HD
 https://tv2.abcnews.al/live/abcnews/chunks.m3u8
 #EXTINF:0 group-title="[AL]LAJME" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png",[$]ABC NEWS
@@ -12558,7 +12560,123 @@ https://ok.xxx/get_file/3/c7dd1eb70a4784dc6d308dda0835419b/38000/38347/38347.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/UuttVdL.png",[$]TEAM-SKEET (EMILY WILLIS)
 https://ok.xxx/get_file/1/e5b32134bed72a7a4ebe27c5f8aa559e/25000/25921/25921.mp4/?download=true&download_filename=sensual-easter-sunday.mp4&br=1000
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?55
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?5
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (MICHELLE ANDERSON)
+https://ok.xxx/get_file/4/40e6a0abe1a835245a2a13f69db934fc/49000/49945/49945.mp4/?download=true&download_filename=stepsiblings-beyond-bored.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (NIKKI VENOM)
+https://ok.xxx/get_file/3/173c466dbee6b53e04dc59610d2bf3e2/11000/11692/11692.mp4/?download=true&download_filename=bounce-on-this-joystick-stepsis.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (NINA NIRVANA)
+https://ok.xxx/get_file/4/52d9033375dea57c79b1d883953d514c/42000/42281/42281.mp4/?download=true&download_filename=stone-age-family-fun.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (PIPER JUNE)
+https://ok.xxx/get_file/3/62df589b5ba34e9a4187e99b1ab9d937/14000/14884/14884.mp4/?download=true&download_filename=my-butch-stepbitch.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (XIANNA HILL)
+https://ok.xxx/get_file/1/59647df34a9c33ea17856cf474822a00/18000/18799/18799.mp4/?download=true&download_filename=stepsisters-dick-diagnosis.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (MELODY FOXX) 
+https://ok.xxx/get_file/1/0035512b5241b923add913e925507925/37000/37943/37943.mp4/?download=true&download_filename=brother-s-back-home.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (BINKY BEAZ)
+https://ok.xxx/get_file/1/9439aab41e9928945601819451480862/28000/28213/28213.mp4/?download=true&download_filename=prude.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (ROSALYN SPHINX)
+https://ok.xxx/get_file/3/d1c0c526ae587b1f4bee84072c0692eb/16000/16375/16375.mp4/?download=true&download_filename=the-sex-crazed-stepkids.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (LILLY HALL)
+https://ok.xxx/get_file/3/7a2813d722146ffe64034df07c0e782c/25000/25568/25568.mp4/?download=true&download_filename=april-fool-s-day-fucking-with-stepsis.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (TAYLOR BLAKE)
+https://ok.xxx/get_file/1/d3b2af7af012467481af60286d536c6b/10000/10099/10099.mp4/?download=true&download_filename=horny-stepsister-homework.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (JADE AMBER)
+https://ok.xxx/get_file/1/5495e2633c9ff91d31298665b5ffb04a/21000/21537/21537.mp4/?download=true&download_filename=stepbrothers-new-groove.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (MISS RAQUEL)
+https://ok.xxx/get_file/3/8c9fa416270334c94dda073631e67149/33000/33512/33512.mp4/?download=true&download_filename=dirty-videos.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (BUNNY COLBY)
+https://ok.xxx/get_file/1/42ab5a45cada19f8153cc2c50dc47f14/14000/14443/14443.mp4/?download=true&download_filename=stepbros-revenge.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (VIENNA BLACK)
+https://ok.xxx/get_file/3/a5da862ba2f30a4c40a7ab3368f5c733/26000/26488/26488.mp4/?download=true&download_filename=the-stepsis-conversion.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (ADDIE ANDREWS)
+https://ok.xxx/get_file/1/fc5fa5a25a83b51e60b0b5c47fc32455/8000/8395/8395.mp4/?download=true&download_filename=a-gooey-recommendation.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (VAL STEELE & JESSAE ROSAE)
+https://ok.xxx/get_file/3/97b34f20cbbc05336b9000bf7f14feb0/35000/35712/35712.mp4/?download=true&download_filename=put-that-phone-down.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (MIRANDA MILLER)
+https://ok.xxx/get_file/3/32591efeb56dd2559ac3731493a80646/10000/10072/10072.mp4/?download=true&download_filename=laundering-a-dirty-stepdaughter-mind.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (HAVANA BLEU & GIA VENDETTI)
+https://ok.xxx/get_file/3/2eaa8e8e6fa2f6b890e917b928ad7d3f/26000/26671/26671.mp4/?download=true&download_filename=my-foster-moms-took-my-virginity.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (BRITNEY AMBER)
+https://ok.xxx/get_file/1/1ed41356cf838e8282ea7d393a0c1ba8/3000/3469/3469.mp4/?download=true&download_filename=blue-balls-bonanza.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (MELODY MARKS)
+https://ok.xxx/get_file/1/34acfe74caf5bb998a95e01e33ca5952/19000/19383/19383.mp4/?download=true&download_filename=prom-night-pussy-practice.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (ANGEL RYDER)
+https://ok.xxx/get_file/3/388d5641f71992f800e5df21b43e0731/15000/15842/15842.mp4/?download=true&download_filename=pumping-stepsister-pussy-iron.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (HANNAH HAWTHORNE)
+https://ok.xxx/get_file/3/71449ddbf0ccbf6f66f7e48b6e46f5b9/6000/6724/6724.mp4/?download=true&download_filename=step-daughter-secrets.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (NOLA EXICO)
+https://ok.xxx/get_file/1/8d91167bef38b8e3167884d142ab48bb/34000/34809/34809.mp4/?download=true&download_filename=the-brat.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (GIANNA DIOR)
+https://ok.xxx/get_file/1/4979b590509327f530c3197b97dfaca9/7000/7933/7933.mp4/?download=true&download_filename=midnight-stepdaughter-muff.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (CHRISTIANA CINN)
+https://ok.xxx/get_file/3/fb8b88f292c01df713d74620a6904334/4000/4040/4040.mp4/?download=true&download_filename=family-vacation-vag.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (ARIELLE FAYE)
+https://ok.xxx/get_file/3/a9abe0ff8f4fa113ee127f7894afa037/36000/36893/36893.mp4/?download=true&download_filename=insatiable-itch-relief.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (LILY GLEE)
+https://ok.xxx/get_file/3/c0510bcdfc17316bde42df503b171d6c/21000/21344/21344.mp4/?download=true&download_filename=disciplined-stepdaughter-dick-down.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (LAURA BENTLEY)
+https://ok.xxx/get_file/3/ba2ff771c8447492138ca2389e3cc002/21000/21151/21151.mp4/?download=true&download_filename=fucking-stepmom-like-its-a-game.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (ANDREINA DELUXE)
+https://ok.xxx/get_file/1/014b80bb3292ef66b4e9021acd6df333/20000/20560/20560.mp4/?download=true&download_filename=perky-tits-are-perfect.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (HARMONY WONDER)
+https://ok.xxx/get_file/3/27d1dd8dd5ede62a17c523b1d6351753/10000/10614/10614.mp4/?download=true&download_filename=stepsister-pocket-pussy-practice.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (AUTUMN FALLS)
+https://ok.xxx/get_file/3/3f00bb38d82d32cca42e25e36a2da73f/9000/9578/9578.mp4/?download=true&download_filename=slam-that-snitch-slit.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (KALI ROSES)
+https://ok.xxx/get_file/1/a0980f4f5fd5b273ffd19ac79f34c094/9000/9359/9359.mp4/?download=true&download_filename=try-this-stepsis-cooch-on-for-size.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (ROSE MONROE)
+https://ok.xxx/get_file/1/d40ab297a2620dad9bef5a750becefca/5000/5383/5383.mp4/?download=true&download_filename=staycation-sex-blues.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (MICHELE JAMES)
+https://ok.xxx/get_file/3/42c078ba3e1ea66f79e891ceb4e21280/1000/1792/1792.mp4/?download=true&download_filename=michele-james-is-always-complaining-to-her-dad-about-her-stepbrother-all-he-does-is-play-tricks-on-her-but-her-dad-does-not-want-to-hear-it-he-tells-michele-to-try-to-be-nice-to-her-stepbro-but-she-maintains-that-he-is-a-jerk.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/moWShHD.jpg",[$]FAMILY STROKES (JANE WILDE)
+https://ok.xxx/get_file/1/1418f1fc6adc8677633a2b752c573e95/1000/1331/1331.mp4/?download=true&download_filename=when-is-the-last-time-you-saw-a-landline-phone-the-90s-well-jane-wildes-family-has-one-and-they-just-found-out-her-date-cancelled-on-her.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?6
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8zDHL4P.jpg",[$]FAKE TAXI (SYBIL)
+https://ok.xxx/get_file/1/7d79e5de1d2d6a52231b67057c1edf6e/35000/35222/35222.mp4/?download=true&download_filename=short-denim-dress-and-perfect-boobs.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8zDHL4P.jpg",[$]FAKE TAXI (CANDICE DEMELLZA)
+https://ok.xxx/get_file/3/36f5483b9e1ab3e5624839e9961c9a3e/24000/24393/24393.mp4/?download=true&download_filename=one-last-fuck-before-good-bye.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8zDHL4P.jpg",[$]FAKE TAXI (TINY TINA)
+https://ok.xxx/get_file/1/191e0845c228fe57553274a363bb22ea/24000/24000/24000.mp4/?download=true&download_filename=lesbian-tries-cock-for-first-time.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8zDHL4P.jpg",[$]FAKE TAXI (GINEBRA BELLUCCI & ANASTASIA BROKELYN)
+https://ok.xxx/get_file/1/dcf452d39b0bd638991ef8d9ddeaa934/24000/24766/24766.mp4/?download=true&download_filename=cheeky-spanish-lesbians-fuck-cabbie.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8zDHL4P.jpg",[$]FAKE TAXI (KLAUDIA DIAMOND)
+https://ok.xxx/get_file/3/73625c659cea41997ab70c63c6532ff7/36000/36112/36112.mp4/?download=true&download_filename=glasses-babe-cheats-on-hubby.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8zDHL4P.jpg",[$]FAKE TAXI (CHARLIE RED)
+https://ok.xxx/get_file/3/d1886efb6f82259b56ec36748e864136/7000/7398/7398.mp4/?download=true&download_filename=cute-redhead-striptease-and-fuck.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8zDHL4P.jpg",[$]FAKE TAXI (YIMING)
+https://ok.xxx/get_file/4/2bc9d89714221d356893530b7d5b22d0/49000/49057/49057.mp4/?download=true&download_filename=you-made-a-mess-so-suck-my-dick.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8zDHL4P.jpg",[$]FAKE TAXI (FLORANE RUSSELL)
+https://ok.xxx/get_file/3/683149c1400d297f1d0836a9f6b1503c/40000/40115/40115.mp4/?download=true&download_filename=big-tits-blonde-likes-to-swallow.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8zDHL4P.jpg",[$]FAKE TAXI (ADELLE UNICORN)
+https://ok.xxx/get_file/3/aa3f554107bf012e9a545c7374033b77/9000/9044/9044.mp4/?download=true&download_filename=slim-models-backseat-pleasure-ride.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8zDHL4P.jpg",[$]FAKE TAXI (ADRIA RAE)
+https://ok.xxx/get_file/3/d1c492c1b7dffc5a25bd697de3c72c12/2000/2658/2658.mp4/?download=true&download_filename=hot-japanese-deepthroat-skills.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?7
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/1UbdsuB.jpg",[$]FAKE HOSTEL (ISABELLA DE LAA)
+https://ok.xxx/get_file/4/239632ee8a61405e4f014dadc4dd95b9/55000/55417/55417.mp4/?download=true&download_filename=the-morning-after-panty-sniffer.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/1UbdsuB.jpg",[$]FAKE HOSTEL (NESTY & MARTINA SMERALDI)
+https://ok.xxx/get_file/3/46be834997e1ce6f34e11c09f7915c0b/20000/20081/20081.mp4/?download=true&download_filename=christmas-kindness.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/1UbdsuB.jpg",[$]FAKE HOSTEL (HAYLI SANDERS & RAE LIL)
+https://ok.xxx/get_file/1/d086e40039b497681e9326a4ab00addc/15000/15778/15778.mp4/?download=true&download_filename=the-arrangement-part-2.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/1UbdsuB.jpg",[$]FAKE HOSTEL (SYBIL)
+https://ok.xxx/get_file/3/4637290d1c14c1db28e6775bb350b78b/33000/33028/33028.mp4/?download=true&download_filename=stuck-in-a-ladder.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?8
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/yUUwbwV.jpg",[$]CASTING COUCH-X (GABBIE CARTER)
+https://ok.xxx/get_file/3/764f6368f8d8041a82525d7971a32d1f/10000/10940/10940.mp4/?download=true&download_filename=gabbie-carter.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/yUUwbwV.jpg",[$]CASTING COUCH-X (LIZ JORDAN)
+https://ok.xxx/get_file/3/5d7e542d86a48f0697e3e2815acf45a4/39000/39272/39272.mp4/?download=true&download_filename=liz-jordan.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/yUUwbwV.jpg",[$]CASTING COUCH-X (LEXIE FUX)
+https://ok.xxx/get_file/1/5ee87c82dec52345264f5ba7625e60a1/21000/21781/21781.mp4/?download=true&download_filename=lexi-fux.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/yUUwbwV.jpg",[$]CASTING COUCH-X (HAZEL MOORE)
+https://ok.xxx/get_file/3/ef1ff62321db7d4a13d8ec9e883fa773/12000/12544/12544.mp4/?download=true&download_filename=hazel-moore.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/yUUwbwV.jpg",[$]CASTING COUCH-X (SELENA LUXX)
+https://ok.xxx/get_file/4/76982c1faf5f76bf0b524caec7641732/51000/51134/51134.mp4/?download=true&download_filename=selena-luxx.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?9
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/2dxBKJe.png",[$]MOM-XXX (KATHY SYBIL)
 http://momxxx.org/momxxx_mp4/mom_kathy_sybil_RU031417_720p_2600.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/2dxBKJe.png",[$]MOM-XXX (TERRA YENNA)
@@ -12572,7 +12690,7 @@ http://momxxx.org/momxxx_mp4/mom_yasmin_scott_RU061416_720p_2600.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/2dxBKJe.png",[$]MOM-XXX (ANNIE TERRA)
 http://momxxx.org/momxxx_mp4/mom_annie_terra_RU022516_720p_4000.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?505
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?10
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/RSsDvaX.jpg",[$]BABES (CAPRI LMONDE)
 https://ok.xxx/get_file/5/18e865940e50f260a4f1e61fc3b886a1/53000/53921/53921.mp4/?download=true&download_filename=dick-straction-plan.mp4&br=1000
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/RSsDvaX.jpg",[$]BABES (DEMI SUTRA)
@@ -12588,7 +12706,7 @@ https://ok.xxx/get_file/3/e96d257fca8b611601667475555067b6/20000/20083/20083.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/RSsDvaX.jpg",[$]BABES (ABELLA DANGER)
 https://ok.xxx/get_file/1/05e002da79cd00f3a0c6ef09f43fd723/12000/12183/12183.mp4/?download=true&download_filename=tip-your-waitress.mp4&br=1000
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?6
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?11
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.ibb.co/ThTVhsL/cum.jpg",[$]CUM-4K (ATHENA FARRIS)
 https://videos.files.wordpress.com/EBP7O3w0/athenafarris_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.ibb.co/ThTVhsL/cum.jpg",[$]CUM-4K (ADRIA GAE)
@@ -12656,7 +12774,7 @@ https://ok.xxx/get_file/3/1de683903d5868830f52b664f3bdd46d/29000/29012/29012.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.ibb.co/ThTVhsL/cum.jpg",[$]CUM-4K (DIXIE LYNN)
 https://ok.xxx/get_file/3/9c792bc90d63230ac3356362316e3404/15000/15884/15884.mp4/?download=true&download_filename=teased-and-creamed.mp4&br=1000
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?7
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?12
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/dNKHImf.png",[$]PRINCESS-CUM (CHLOE TEMPLE)
 https://videos.files.wordpress.com/UWnzbqPm/chloetemple_pm_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/dNKHImf.png",[$]PRINCESS-CUM (DANA WOLF)
@@ -12684,7 +12802,7 @@ https://videos.files.wordpress.com/m9D5Hp7u/jessicarex_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/dNKHImf.png",[$]PRINCESS-CUM (MEGAN SAGE)
 https://videos.files.wordpress.com/gOB47KIG/megansage_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?8
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?13
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/Whf2RIe.png",[$]BBC-PIE (ANGEL YOUNGS)
 https://videos.files.wordpress.com/wlQTxkJ9/angelyoungs_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/Whf2RIe.png",[$]BBC-PIE (ALEXIA ANDERS)
@@ -12712,7 +12830,7 @@ https://ok.xxx/get_file/4/cf6c4077bad4970379c36dacc9ff1db0/49000/49867/49867.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/Whf2RIe.png",[$]BBC-PIE (JEWELZ BLU)
 https://ok.xxx/get_file/1/fbbb554fa98a2e5d5e4b0fba18162252/30000/30919/30919.mp4/?download=true&download_filename=photoshoot.mp4&br=1000
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?9
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?14
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/TVxhzSc.png",[$]STEP-SIBILINGS (ROSALYN SPHINX)
 https://videos.files.wordpress.com/inT5ROFQ/rosalynsphinx_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/TVxhzSc.png",[$]STEP-SIBILINGS (KYLER QUINN)
@@ -12812,7 +12930,7 @@ https://ok.xxx/get_file/3/99ab50e6e1deb619b6dd4ac5c9f06d27/37000/37884/37884.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/TVxhzSc.png",[$]STEP-SIBILINGS (KENZIE MADISON)
 https://ok.xxx/get_file/3/710811f4e227856c686a4066e3b97cd4/16000/16120/16120.mp4/?download=true&download_filename=sister-kenzie.mp4&br=1000
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?10I
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?15
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/LKFsEuY.jpg",[$]SPY-FAM (HAZEL MOORE)
 https://ok.xxx/get_file/5/4b536afeb2365c56e9e85c95bb8e7ab1/53000/53523/53523.mp4/?download=true&download_filename=snoopy-stepbro.mp4&br=1000
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/LKFsEuY.jpg",[$]SPY-FAM (ANASTASIA KNIGHT)
@@ -12862,7 +12980,7 @@ https://ok.xxx/get_file/3/7c934bb8891df4eb97397a584973b891/30000/30566/30566.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/LKFsEuY.jpg",[$]SPY-FAM (MEGAN WINTERS)
 https://ok.xxx/get_file/1/49f45dedc374dcfe3631b15db033bca7/1000/1607/1607.mp4/?download=true&download_filename=stepsister-helps-her-brother-who-has-fallen-after-a-bath-she-see-s-his-big-dick-and-decides-she-wants-to-fuck-him.mp4&br=1000
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?10J
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?16
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/4df01ZU.jpg",[$]JOY-MII (MATTY)
 https://ok.xxx/get_file/4/378da155fa436840a39e4f50169e5baf/54000/54885/54885.mp4/?download=true&download_filename=playful-morning.mp4&br=1000
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/4df01ZU.jpg",[$]JOY-MII (APOLONIA LAPIEDRA)
@@ -12928,7 +13046,57 @@ https://ok.xxx/get_file/1/24e07fbf7e5e0697f0572601f4098e63/15000/15334/15334.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/4df01ZU.jpg",[$]JOY-MII (MIELA)
 https://ok.xxx/get_file/3/0734912a92ec6e1c9ad23655c0b54cff/17000/17613/17613.mp4/?download=true&download_filename=true-love.mp4&br=1000
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?10
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?17
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (Elsa Jean & Hannah Hays)
+http://images.nubiles-porn.com/videos/promiscuous_sisters/videos/brattysis_promiscuous_sisters_long_1280.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (Izzy Bell)
+http://images.nubiles-porn.com/videos/april_fools/videos/brattysis_april_fools_long_1280.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (Marley Brinx)
+http://images.nubiles-porn.com/videos/touch_my_body_challenge/videos/brattysis_touch_my_body_challenge_long_1280.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (Gina Valentina)
+http://images.nubiles-porn.com/videos/money_for_honey/videos/brattysis_money_for_honey_long_1280.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (Audrey Royal)
+http://images.nubiles-porn.com/videos/step_sister_creampie/videos/brattysis_step_sister_creampie_long_1280.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (Jasmine Callipygiah)
+http://images.nubiles-porn.com/videos/take_me/videos/brattysis_take_me_long_1280.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (JESSIE SAINT)
+https://ok.xxx/get_file/5/ac989aee55728058b0a2d4cee8a31f2a/54000/54940/54940.mp4/?download=true&download_filename=sneaky-stepsister-s18-e12.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (CHLOE TEMPLE)
+https://ok.xxx/get_file/1/43f3205941446d21c1dc3684d31795bc/6000/6213/6213.mp4/?download=true&download_filename=sister-nurse.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (WINTER JADE)
+https://ok.xxx/get_file/1/045b52941dff8d3d3bfdd718e9c75d1f/23000/23989/23989.mp4/?download=true&download_filename=she-wants-to-be-on-top.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (LEXIE FUX)
+https://ok.xxx/get_file/1/9c8753014a459dfd70ba029bf371ff98/28000/28547/28547.mp4/?download=true&download_filename=so-you-want-to-be-a-stripper.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (ZOE PARKER)
+https://ok.xxx/get_file/1/51cb04139cdcabc5ac533d925f807f03/4000/4837/4837.mp4/?download=true&download_filename=step-sister-makeover.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (SCARLETT FAL)
+https://ok.xxx/get_file/1/567701f655320b388b0e5ea2d669d6ee/28000/28939/28939.mp4/?download=true&download_filename=talking-about-sex-with-my.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (BUNNY COLBY)
+https://ok.xxx/get_file/1/311cafebea3fa5a6d5bc5601fa6121c6/15000/15767/15767.mp4/?download=true&download_filename=redneck-party.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (FARIS RAISES)
+https://ok.xxx/get_file/1/c2c6b88a56fa27aaa6c1d3f0186d1a6b/1000/1865/1865.mp4/?download=true&download_filename=ms-faris-and-her-friend-ember-stone-are-dressed-in-their-cheer-uniforms-practicing-their-routines-while-ms-s-stepbrother-codey-steele-spies-on-them.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (THALIA DIAZ)
+https://ok.xxx/get_file/1/472fe2f2b4066643ff6e97b0caaacd20/40000/40109/40109.mp4/?download=true&download_filename=step-sisters-fashion-show.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (KATIE KUSH)
+https://ok.xxx/get_file/1/5d2eda2171322cc7ab540ba4137914b7/26000/26247/26247.mp4/?download=true&download_filename=my-step-sisters-sexy-ass.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (CECELIA TAYLOR)
+https://ok.xxx/get_file/4/b3f29a68798319f5ec9abb2fbdadf020/52000/52926/52926.mp4/?download=true&download_filename=i-fucked-my-step-brother-accidentally-on-purpose-s18-e9.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (KYLIE ROCKET)
+https://ok.xxx/get_file/4/5d251bac57da21fb6574fbf7bdac426c/46000/46462/46462.mp4/?download=true&download_filename=step-sister-likes-to-be-naked.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (ALEX COAL)
+https://ok.xxx/get_file/4/ffebed702509c84d0eb381d0a064b69c/47000/47430/47430.mp4/?download=true&download_filename=step-sister-caught-me-creeping.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (MEGAN MARX)
+https://ok.xxx/get_file/3/b0f77322bc23c6ea592002315a72408a/38000/38732/38732.mp4/?download=true&download_filename=its-just-dry-humping.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (JESSIE SAINT)
+https://ok.xxx/get_file/3/a346117a50783b326ef185dda7f0c905/21000/21271/21271.mp4/?download=true&download_filename=stretching-my-step-sister.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (BUNNY COLBY & WINTER JADE)
+https://ok.xxx/get_file/1/a302c271850b2efe47b89f8a86f21ebd/15000/15417/15417.mp4/?download=true&download_filename=easy-cum-easy-go.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (NATALIA QUEEN) 
+https://ok.xxx/get_file/1/8c1ac2d6f313a0e143f081e1a3940a8c/18000/18490/18490.mp4/?download=true&download_filename=you-got-me-pregnant.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8kVsSoz.jpg",[$]BRATTY SIS (CAROLINA SWEETS)
+https://ok.xxx/get_file/3/0d92e0f616c875b3df5a751af9b97a41/5000/5060/5060.mp4/?download=true&download_filename=the-real-thing.mp4&br=1000
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?1.7
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.ibb.co/db8VwHy/KINKY.png",[$]KINKY-FAMILY (ATHENA FARRIS)
 https://videos.files.wordpress.com/xRqokruW/athenafarriskinky_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.ibb.co/db8VwHy/KINKY.png",[$]KINKY-FAMILY (ELIZA IBARRA)
@@ -12944,7 +13112,7 @@ https://videos.files.wordpress.com/UplRXnKZ/zoeblom_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.ibb.co/db8VwHy/KINKY.png",[$]KINKY-FAMILY (ASHLEY LANE)
 https://videos.files.wordpress.com/aj5m5SID/ashleylane_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?11
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?18
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/UK8X9wj.png",[$]FAMILY-PIES (ANGELICA CRUZ)
 https://videos.files.wordpress.com/NkKuJBCr/angelicacruz_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/UK8X9wj.png",[$]FAMILY-PIES (HIME MARIE)
@@ -12978,7 +13146,7 @@ https://videos.files.wordpress.com/WMa8uBwW/lexilore_violetrain_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/UK8X9wj.png",[$]FAMILY-PIES (TIFFANY TATUM)
 https://videos.files.wordpress.com/5aGH09Cn/tiffanytatum_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?12
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?19
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/MF8FUFY.jpg",[$]MY-PERVY-FAMILY (NATANA BROOKE)
 https://ok.xxx/get_file/5/165189a72329f07757a0ffb2425bc505/54000/54886/54886.mp4/?download=true&download_filename=big-dick-birthday-surprise.mp4&br=1000
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/MF8FUFY.jpg",[$]MY-PERVY-FAMILY (ARIETTA ADAMS)
@@ -13090,7 +13258,7 @@ https://ok.xxx/get_file/3/a099a0199a085acdddd3dbda180e8048/17000/17185/17185.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/MF8FUFY.jpg",[$]MY-PERVY-FAMILY (JULZ GOTTI)
 https://ok.xxx/get_file/1/5d1b2cb73c63cd785f22189c244de72d/32000/32537/32537.mp4/?download=true&download_filename=ready-to-swallow-brother-s-cum.mp4&br=1000
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?13
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?20
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/reZIPOk.jpg",[$]Exotic4K-01
 http://videos.galleries.pornpros.com/galleries.exotic4k.com/htdocs/fb01/fb01_vivicajohnsosn051514/content/vid01.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/reZIPOk.jpg",[$]Exotic4K-02
@@ -13114,7 +13282,7 @@ http://videos.galleries.pornpros.com/galleries.exotic4k.com/htdocs/fb01/fb01_cas
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/reZIPOk.jpg",[$]Exotic4K-11
 http://1244.vod.redtraffic.xyz/ph578d2c549906b/play.m3u8
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?14
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?21
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/sXrZtgY.png",[$]Tiny4K-01
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/sXrZtgY.png",[$]Tiny4K-02
@@ -13138,7 +13306,7 @@ http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakot
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/sXrZtgY.png",[$]Tiny4K-11
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?15
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?22
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/xWpVc3r.png",[$]FANTASY-HD1 
 http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_ellamilano/content/vid01.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/xWpVc3r.png",[$]FANTASY-HD2
@@ -13156,7 +13324,7 @@ http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_co
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/xWpVc3r.png",[$]FANTASY-HD8
 http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_emilygrey080514/content/vid01.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?16
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?23
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/7ktOvoU.jpg",[$]CASTING-COUCH HD1
 http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_rachel/content/vid01.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/7ktOvoU.jpg",[$]CASTING-COUCH HD2
@@ -13172,7 +13340,7 @@ http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb01/fb
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/7ktOvoU.jpg",[$]CASTING-COUCH HD7
 http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb01/fb01_dillioncarter121214/content/vid01.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?17
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?24
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/pcHFDhd.png",[$]POVD-01
 http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_keishagrey061614/content/vid01.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/pcHFDhd.png",[$]POVD-02
@@ -13194,7 +13362,7 @@ http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_giannan
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/pcHFDhd.png",[$]POVD-10
 http://12156.vod.redtraffic.xyz/ph5bd9e6e6496bb/play.m3u8
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?18
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?25
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hmwZ53s.png",[$]PureMature-01 
 http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb02/fb02_nicoleaniston2/content/vid01.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hmwZ53s.png",[$]PureMature-02
@@ -13352,7 +13520,7 @@ http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_ver
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hmwZ53s.png",[$]PureMature-78
 http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_avaaddams/content/vid01.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?19
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?26
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/MrxpHg5.png",[$]ASIAN PORN XXX-01
 http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/c/d/cd7195440a796e718ff46bfb149972401486992903-1280-720-1689-h264.mp4/master.m3u8 
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/MrxpHg5.png",[$]ASIAN PORN XXX-02
@@ -13430,7 +13598,7 @@ http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/5/d/5d7f7c9bf037d6bf42f1534a2
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/MrxpHg5.png",[$]ASIAN PORN XXX-38 
 http://hls2e-vz-videos2.yjcontentdelivery.com/_hls/7/4/7406ac8c39a24d4cbc0124cd05eff94d1482843919-720-480-1085-h264.mp4/master.m3u8
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?20
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?27
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/jEzXode.png",[$]WE CAUGHT OUR BABYSITTER TOUCHING HERSELF  
 http://13216.vod.redtraffic.xyz/ph568a16b1076e0/play.m3u8
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/jEzXode.png",[$]BUSTY JAPANESE GIRL GETS POUNDED 
@@ -13486,7 +13654,7 @@ http://21470.vod.redtraffic.xyz/ph5aa36cd9807d5/play.m3u8
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/jEzXode.png",[$]GYMNAST FUCKS HOT MODEL CHICK FROM LOS ANGELES 
 http://21470.vod.adultiptv.net/ph58124e7aaeccf/play.m3u8
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?21
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?28
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/APWiwl8.png",[$]MIX ADULT VIDEO 01
 https://video2.tizam.cc/files/2398713/2040__2009.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/APWiwl8.png",[$]MIX ADULT VIDEO 02
