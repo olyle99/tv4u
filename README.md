@@ -19,7 +19,7 @@ http://93.157.62.180/TVKlanHD/mpegts|User-Agent=stream
 #EXTINF:0 group-title="[AL]KOMBETARE" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV.png",[$]Klan 
 http://130.0.24.6:2831/udp/239.101.43.76:2345
 #EXTINF:0 group-title="[AL]KOMBETARE" tvg-logo="https://i.imgur.com/MHMWTgG.png",[$]Klan Plus FHD
-http://95.107.132.222/live/localdisk/KlanTV/SA/KlanTV.m3u8
+http://95.107.132.222/live/localdisk/KlanPlus/SA/KlanPlus.m3u8
 #EXTINF:0 group-title="[AL]KOMBETARE" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png",[$]Klan Plus HD
 http://93.157.62.180/KlanPlus/mpegts|User-Agent=stream
 #EXTINF:0 group-title="[AL]KOMBETARE" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png",[$]Klan Plus 
