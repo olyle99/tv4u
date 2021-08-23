@@ -936,17 +936,17 @@ http://130.0.31.246:25465/stalker/xaMDnbFF9n/63
 http://130.0.31.246:25465/stalker/xaMDnbFF9n/28
 #EXTINF:0 group-title="[AL]METI-TV" tvg-logo="https://i.imgur.com/FZ9WK5o.png",======================
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?meti6
-#EXTINF:-1 group-title="[AL]MY-TRING" tvg-logo="https://i.ibb.co/MfQVfSQ/RA1.png",[$]RAI 1
+#EXTINF:-1 group-title="[AL]METI-TV" tvg-logo="https://i.ibb.co/MfQVfSQ/RA1.png",[$]RAI 1
 http://130.0.31.246:25465/stalker/xaMDnbFF9n/33
-#EXTINF:-1 group-title="[AL]MY-TRING" tvg-logo="https://i.ibb.co/k576LhY/RAI2.png",[$]RAI 2
+#EXTINF:-1 group-title="[AL]METI-TV" tvg-logo="https://i.ibb.co/k576LhY/RAI2.png",[$]RAI 2
 http://130.0.31.246:25465/stalker/xaMDnbFF9n/34
-#EXTINF:-1 group-title="[AL]MY-TRING" tvg-logo="https://i.ibb.co/NSGkjS6/RAI3.png",[$]RAI 3
+#EXTINF:-1 group-title="[AL]METI-TV" tvg-logo="https://i.ibb.co/NSGkjS6/RAI3.png",[$]RAI 3
 http://130.0.31.246:25465/stalker/xaMDnbFF9n/35
-#EXTINF:-1 group-title="[AL]MY-TRING" tvg-logo="https://i.imgur.com/K6OcwkX.jpg",[$]MEDIASET 1
+#EXTINF:-1 group-title="[AL]METI-TV" tvg-logo="https://i.imgur.com/K6OcwkX.jpg",[$]MEDIASET 1
 http://130.0.31.246:25465/stalker/xaMDnbFF9n/19
-#EXTINF:-1 group-title="[AL]MY-TRING" tvg-logo="https://i.imgur.com/ioaWz0f.png",[$]CANALE 5
+#EXTINF:-1 group-title="[AL]METI-TV" tvg-logo="https://i.imgur.com/ioaWz0f.png",[$]CANALE 5
 http://130.0.31.246:25465/stalker/xaMDnbFF9n/9
-#EXTINF:-1 group-title="[AL]MY-TRING" tvg-logo="https://i.imgur.com/yiTWWyc.png",[$]RETE 4
+#EXTINF:-1 group-title="[AL]METI-TV" tvg-logo="https://i.imgur.com/yiTWWyc.png",[$]RETE 4
 http://130.0.31.246:25465/stalker/xaMDnbFF9n/37
 
 #EXTINF:0 group-title="[AL]KUDO-TV" tvg-logo="https://i.imgur.com/Xg4DHnS.png",======================
@@ -1540,6 +1540,8 @@ http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/88.ts
 http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/90.ts
 #EXTINF:-1 group-title="[AL]ALBOX-TV" tvg-logo="http://www.albepg.com/tvlogi/21%20Popullore.png",[$]RTV21 POPULLORE
 http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/58.ts
+#EXTINF:-1 group-title="[AL]ALBOX-TV" tvg-logo="http://www.albepg.com/tvlogi/Balkanika.png",[$]BALKANIKA
+http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/14.ts
 #EXTINF:-1 group-title="[AL]ALBOX-TV" tvg-logo="https://i.imgur.com/wF6fmgc.png",======================
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?myT5
 #EXTINF:-1 group-title="[AL]ALBOX-TV" tvg-logo="https://i.ibb.co/ZTFhC3X/world.jpg",[$]TRING WOLRD
@@ -2687,7 +2689,7 @@ http://ott-albkanale.duckdns.org/out/u/689_2.m3u8
 #EXTINF:-1 group-title="[AL]MY-TRING FILM" tvg-logo="https://i.ibb.co/0FQrdWL/FAMILY.jpg",[$]TRING FAMILY HD
 http://ott-albkanale.duckdns.org/out/u/673_1.m3u8
 #EXTINF:-1 group-title="[AL]MY-TRING FILM" tvg-logo="https://i.ibb.co/Gc0pNZM/fantasy.jpg",[$]TRING FANTASY 
-http://ott-albkanale.duckdns.org/out/u/672_1.m3u8
+http://tring.mediazonehd.com:8880/tringfantasysRQbXDJb9wacRvXLe2cz/video.m3u8?
 #EXTINF:-1 group-title="[AL]MY-TRING FILM" tvg-logo="https://i.ibb.co/pZh0gxg/comedy.jpg",[$]TRING COMEDY
 http://ott-albkanale.duckdns.org/out/u/573_1.m3u8
 #EXTINF:-1 group-title="[AL]MY-TRING FILM" tvg-logo="https://i.ibb.co/q7wM3tJ/3.jpg",[$]TRING 3PLUS
@@ -2884,16 +2886,16 @@ http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/423
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/422
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/bMwbDys.png",[$]SUPER SPORT 6HD 
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/421
-#EXTINF:-1 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/w7BiWPe.png",[$]SS 1HD
-http://93.157.62.180/Supersport1/mpegts|User-Agent=stream
-#EXTINF:-1 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/xITKCw0.png",[$]SS 2HD
-http://51.89.195.111:8880/ss2/playlist.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/z2U1Ptl.png",[$]SS 3HD
-http://51.89.195.111:8880/ss3/playlist.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/JcU1C39.png",[$]SS 4HD
-http://51.89.195.111:8880/ss4/playlist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.ibb.co/2hVZhdw/s1.jpg",[$]SS 1HD
+http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/70.ts?
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.ibb.co/RHN13L0/s2.jpg",[$]SS 2HD
+http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/71.ts?
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.ibb.co/4P2BwXx/s3.jpg",[$]SS 3HD
+http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/72.ts?
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.ibb.co/D53CnWb/s4.jpg",[$]SS 4HD
+http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/137.ts?
 #EXTINF:-1 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/IZsBtt4.png",[$]OVERSPORT NEWS HD 
-http://srvamd19.akamaized.net/live_srt/oversportnews_720p/hdntl=exp=1629739614~acl=%2f*~data=hdntl~hmac=4260b97c4786dade0fdd58462386500632adf7c8f32b425c1dc6424a8757acdc/chunks.m3u8
+http://srvamd19.akamaized.net/live_srt/oversportnews_720p/hdntl=exp=1629739614~acl=%2f*~data=hdntl~hmac=4260b97c4786dade0fdd58462386500632adf7c8f32b425c1dc6424a8757acdc/chunks.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="[AL]SPORTE" tvg-logo="https://i.ibb.co/BzvYkhj/TNews.jpg",[$]TRING SPORT NEWS HD 
 http://130.0.24.6:2831/udp/239.101.43.64:2345
 #EXTINF:-1 group-title="[AL]SPORTE" tvg-logo="https://i.ibb.co/jVrVyjf/T1.jpg",[$]TRING SPORT 1HD 
@@ -3024,8 +3026,6 @@ http://84.22.33.254/unicast.tringsportnews/mpegts?token=tv
 http://95.107.132.106/out/u/683_1.m3u8
 #EXTINF:0 group-title="[AL]SPORTE(TEST)" tvg-logo="https://i.ibb.co/LdS2v30/T2.jpg",[$]TRING SPORT 2HD
 http://95.107.132.106/out/u/691_2.m3u8
-#EXTINF:0 group-title="[AL]SPORTE(TEST)" tvg-logo="https://i.ibb.co/LdS2v30/T2.jpg",[$]TRING SPORT 2
-http://51.89.195.111:8880/ts2/playlist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]SPORTE(TEST)" tvg-logo="https://i.ibb.co/Smmm957/T3.jpg",[$]TRING SPORT 3HD
 http://95.107.132.106/out/u/699_2.m3u8
 #EXTINF:-1 group-title="[AL]SPORTE(TEST)" tvg-logo="https://i.ibb.co/gWQXkqs/T4.jpg",[$]TRING SPORT 4HD
@@ -11217,191 +11217,6 @@ https://videos.files.wordpress.com/b3Yu5wJC/blacsitedelta_dvd.mp4
 #EXTINF:-1 group-title="[AL]FILMA(TITRA SHQIP)" tvg-logo="https://i.imgur.com/aD2jRQX.png",[$]VAN DAM IN ACTION
 https://videos.files.wordpress.com/yZzcIP68/vandame_dvd.mp4
 
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]ICE AGE 1
-https://videos.files.wordpress.com/AqBy9rHt/iceage_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]ICE AGE 2
-https://videos.files.wordpress.com/lTit2Cgd/iceage2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]ICE AGE 3
-https://videos.files.wordpress.com/hNh83Pnd/iceage3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]ICE AGE 4
-https://videos.files.wordpress.com/M9NMA3Am/iceagecontinentaldrift_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]OPEN SEASON 1
-https://videos.files.wordpress.com/MPQEZPRN/openseason1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]OPEN SEASON 2
-https://videos.files.wordpress.com/MUYiRIrp/openseason2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]OPEN SEASON 3
-https://videos.files.wordpress.com/CiLMc1lf/openseason3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]OPEN SEASON 4
-https://videos.files.wordpress.com/NQf1ci6a/openseasonscaredsilly_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]KUNG-FU PANDA 1
-https://videos.files.wordpress.com/MBaiqmPK/kungfupanda1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]KUNG-FU PANDA 2
-https://videos.files.wordpress.com/ukkfWOlP/kungfupanda2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]KUNG-FU PANDA 3
-https://videos.files.wordpress.com/iSqft1pj/kungfupanda3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]DESPICABLE-ME 1
-https://videos.files.wordpress.com/g3WNpYqU/despicableme_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]DESPICABLE-ME 2
-https://videos.files.wordpress.com/3Flbt8SJ/despicableme2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]DESPICABLE-ME 3
-https://videos.files.wordpress.com/NerruU7g/despicableme3-1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]CARS 1
-https://videos.files.wordpress.com/aTZnEEAm/cars_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]CARS 2
-https://videos.files.wordpress.com/KK9Bh3kQ/cars2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]CARS 3
-https://videos.files.wordpress.com/eJzNncnd/cars3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SHREK 1
-https://videos.files.wordpress.com/Ur7bycOo/shrek_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SHREK 2
-https://videos.files.wordpress.com/CO2SnvzK/shrek2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SHREK 3
-http://37.26.86.39:48768/movies/shrek3.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]HOTEL TRANSYLVANIA 1
-https://videos.files.wordpress.com/I6sRCmoX/hoteltransylvania_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]HOTEL TRANSYLVANIA 2
-https://videos.files.wordpress.com/CzNSl868/hoteltransylvania2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]HOTEL TRANSYLVANIA 3
-https://videos.files.wordpress.com/fX8Uvrdd/hoteltransylvania3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]GARFIELD 1
-https://videos.files.wordpress.com/a6icPKji/garfield1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]GARFIELD 2
-https://videos.files.wordpress.com/QpdR2Nta/garfield2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]RIO 1
-https://videos.files.wordpress.com/lXWe7rsi/rio_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]RIO 2
-https://videos.files.wordpress.com/4DmHS3W7/rio2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]INCREDIBLES 1
-https://videos.files.wordpress.com/ryKXYBCp/theincredibles_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]INCREDIBLES 2
-https://videos.files.wordpress.com/ef90sJ9z/incredibles2-1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]BALTO 1
-https://videos.files.wordpress.com/8zi9DtKs/balto_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]BALTO 2
-https://videos.files.wordpress.com/FBGMYp4i/balto2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]POCAHONTAS 1
-https://videos.files.wordpress.com/pu66JDJz/pocahontas-1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]POCAHONTAS 2
-https://videos.files.wordpress.com/Ov27QqGg/pocahontas2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]THE LION KING 1
-https://videos.files.wordpress.com/6hJ0zd6S/thelionking_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]THE LION KING 2
-https://videos.files.wordpress.com/Qe46i7YG/thelionking2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]ALVIN AND THE CHIPMUNKS 1
-https://videos.files.wordpress.com/n5xOKcS9/alvinandthechipmunks_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]ALVIN AND THE CHIPMUNKS 2
-https://videos.files.wordpress.com/YtQOOLXQ/alvinandthechipmunkstheroadchip2015_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]FROZEN 1
-https://videos.files.wordpress.com/Ca1FbBGc/frozen_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]FROZEN 2
-https://videos.files.wordpress.com/7M63fNKq/frozenii_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SPACE JAM 1
-https://videos.files.wordpress.com/pbtOe37j/spacejam_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SPACE JAM 2
-https://videos.files.wordpress.com/ZuquOGjI/spacejamanewlegacy_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]MADAGASCAR 2
-https://videos.files.wordpress.com/zWizuexl/madagascar2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]MADAGASCAR 3
-https://videos.files.wordpress.com/igHqeOMh/madagascar3-1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]TOM & JERRY "SPY QUEST"
-https://videos.files.wordpress.com/xcuwfFqP/tomandjerryspyquest_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]TOM & JERRY "CHOCOLATE FACTORY"
-https://videos.files.wordpress.com/HtuGDOPW/tomandjerrywillywonkaandthechocolatefactory2017_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]TOM & JERRY "GIANT ADVENTURE"
-https://xplorersclub.com/upload/media/CDN/Tomi%20dhe%20Xherri%20Aventur%C3%AB%20Gjigande%20%28Tom%20and%20Jerrys%20Giant%20Adventure%29.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SCOOBY-DOO "MASK OF THE BLUE FALCON"
-https://videos.files.wordpress.com/lGIWHmen/scooby-doomaskofthebluefalcon_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]PINK PANTHER "SOCCER CHAMPION"
-https://eu.shqipbox.app/file/shqipbox/filma/Pink%20Panther%20is%20a%20Soccer%20Champion%21%20-%2056%20Min%20Compilation%20-%20Pink%20Panther%20and%20Pals.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SCOOBY-DOO
-https://videos.files.wordpress.com/PWAuOZrU/scooby-doo_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]MASHA AND THE BEAR
-https://videos.files.wordpress.com/vGzBQ67i/mashaandthebear_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]YOGI BEAR
-https://videos.files.wordpress.com/6NFKScMF/yogibear_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SUPERMAN "MAN OF TOMORROW"
-https://videos.files.wordpress.com/Zcq8xX9P/supermanmanoftomorrow_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SCOOB!
-https://videos.files.wordpress.com/euB1KzEN/scoob_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]LILO & STITCH
-https://videos.files.wordpress.com/7SvnVs4v/lilostitch_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]LATTE "THE MAGIC WATER STONE"
-https://videos.files.wordpress.com/spEtdyms/lattethemagicwaterstone_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]JUSTICE LEAGUE "DARK APOKALIPS WAR"
-https://videos.files.wordpress.com/G17YO2P0/justiceleaguedarkapokolipswar_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SPYCIES
-https://videos.files.wordpress.com/YtFwm5Qg/spycies_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SPIES IN DISGUISE
-https://videos.files.wordpress.com/JtVz7yP5/spiesindisguise_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]TOY STORY 4
-https://videos.files.wordpress.com/4oTNl2fE/toystory4_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]THE SECRET LIFE OF PETS 2
-https://videos.files.wordpress.com/UsKJfJ44/thesecretlifeofpets2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]PETTER RABIT
-https://videos.files.wordpress.com/1xjVuSNf/peterrabbit-1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]NORM OF THE NORTH KING
-https://videos.files.wordpress.com/5dnqGVAk/normofthenorthking-1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]POKMON "MEWTO STRIKES BACK"
-https://videos.files.wordpress.com/4ad6qwNX/pokmonmewtwostrikesback_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]RAYA AND THE LAST DRAGON
-https://videos.files.wordpress.com/jLSlTSOK/rayaandthelastdragon_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SECRET MAGIC CONTROL AGENCY
-https://videos.files.wordpress.com/Pe2jJQTe/secretmagiccontrolagency_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SUPER BEAR
-https://videos.files.wordpress.com/jZ6VM3Bx/superbear_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]THE SWORD IN THE STONE
-https://videos.files.wordpress.com/zKR1NSTw/theswordinthestone_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]ARCTIC DOGS
-https://videos.files.wordpress.com/V94MkMFq/arcticdogs-1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]ENCHANTED
-https://videos.files.wordpress.com/xyNhfBQ4/enchanted_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]THE STAR
-https://videos.files.wordpress.com/SpJyUzM4/thestar_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]PETS UNITED
-https://videos.files.wordpress.com/dOXYHHTT/petsunited2019_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]TURBO
-https://videos.files.wordpress.com/tZOk4pMd/turbo-1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]WONDER PARK
-https://videos.files.wordpress.com/tpBZISXK/wonderpark_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]TREASURE PLANET
-https://videos.files.wordpress.com/XuAQDHQ7/treasureplanet_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]REIGN OF THE SUPERMEN
-https://videos.files.wordpress.com/m0rpI9y3/reignofthesupermen_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]PLANET HULK
-https://videos.files.wordpress.com/dXb8vKun/planethulk_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]MONSTERS VS ALIENS
-https://videos.files.wordpress.com/snLvkNcJ/monstersvs.aliens_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]CAPTIVE
-https://videos.files.wordpress.com/nVijir63/captive_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]RANGO
-https://videos.files.wordpress.com/LEDIiHEW/rango_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]BOLT
-https://videos.files.wordpress.com/cTEYW0Qt/bolt-1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]101 DALMATS
-https://videos.files.wordpress.com/PINaEjf1/101dalmats_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]ALADDIN
-https://videos.files.wordpress.com/xPjgaACf/aladdin_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]ANIMAL CRAKERS
-https://videos.files.wordpress.com/M1kQPSDA/animalcrackers_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]BRAVE
-https://videos.files.wordpress.com/LXqviOY6/brave-1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SLEEPING BEAUTY
-https://videos.files.wordpress.com/jkcqnGrG/sleepingbeauty_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]THE ADVENTURES OF TINTIN
-https://videos.files.wordpress.com/4675rsxQ/theadventuresoftintin_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]ASTERIX "THE SECRET OF THE MAGIC POTION"
-https://videos.files.wordpress.com/uH8etCRT/asterixthesecretofthemagicpotion_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]BLINKY BILL
-https://videos.files.wordpress.com/NC3JKG9L/blinkybill_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]EL DORADO
-https://videos.files.wordpress.com/z2W3lBXU/eldorado_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]PENGUINS OF MADAGASCAR
-https://videos.files.wordpress.com/4lm4mH7Y/penguinsofmadagascar_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]THE BOSS BABY
-https://videos.files.wordpress.com/MieGiNzQ/thebossbaby_mp4_std.mp4
-#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]TEENAGE MUTANT NINJA TURTLES
-https://videos.files.wordpress.com/iLz8KJgo/tmnt_mp4_dvd.mp4
-
 #EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]MARAUDERS
 http://orchidetv.com:8081/s3/Marauders2016.mp4
 #EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]THE 5-TH WAVE 
@@ -11504,8 +11319,6 @@ http://orchidetv.com:8081/s3/lastknights.mp4
 http://orchidetv.com:8081/s3/lucy2014.mp4
 #EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]TRUE STORY
 http://orchidetv.com:8081/s3/truestory2015.mp4
-#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]TAKEN 2
-http://orchidetv.com:8081/s3/taken2.mp4
 #EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]TAKEN 3
 http://orchidetv.com:8081/s3/taken3.mp4
 #EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]FREE FALL
@@ -11628,50 +11441,40 @@ http://orchidetv.com:8081/s3/themarine2.mp4
 http://orchidetv.com:8081/s3/pawn2013.mp4
 #EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]MACHETE KILLS
 http://orchidetv.com:8081/s3/machetekills.mp4
-#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]TOM & JERRY VOL.1
-http://orchidetv.com:8081/s3/tomandjerry1.mp4
-#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]TOM & JERRY VOL.2
-http://orchidetv.com:8081/s3/tomandjerry2.mp4
-#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]TOM & JERRY VOL.3
-http://orchidetv.com:8081/s3/tomandjerry3.mp4
-#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]TOM & JERRY VOL.4
-http://orchidetv.com:8081/s3/tomandjerry4.mp4
-#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]TOM & JERRY VOL.5
-http://orchidetv.com:8081/s3/tomandjerry5.mp4
-#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]TOM & JERRY & WIZARD OF OZ
-http://orchidetv.com:8081/s3/tomandjerryandthewizardofoz.mp4
-#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]YI-GI-OH! DARK SIDE OF DIMENSION
-http://orchidetv.com:8081/s3/YuGiOhTheDarkSideofDimension.mp4
-#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]MADAGASCAR 1
-http://orchidetv.com:8081/s3/madagascar1/mp4
-#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]MADAGASCAR 2
-http://orchidetv.com:8081/s3/madagascar2.mp4
-#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]MADAGASCAR 3
-http://orchidetv.com:8081/s3/madagascar3.mp4
-#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]KUNG FU PANDA 1
-http://orchidetv.com:8081/s3/kungfupanda2008.mp4
-#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]KUNG FU PANDA 2
-http://orchidetv.com:8081/s3/KungFuPanda22011.mp4
-#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]KUNG FU PANDA 3
-http://orchidetv.com:8081/s3/KungFuPanda32016.mp4
-#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]GARFIELD 2
-http://orchidetv.com:8081/s3/garfield2.mp4
-#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]FROZEN
-http://orchidetv.com:8081/s3/frozen.mp4
-#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]THE ADVENTURES OF TINTIN
-http://orchidetv.com:8081/s3/theadventuresoftintin.mp4
-#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]TANGLED
-http://orchidetv.com:8081/s3/tangled.mp4
-#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]HOW TO TRAIN YOUR DRAGON
-http://orchidetv.com:8081/s3/howtotrainyourdragon.mp4
-#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]THE BOSS BABY
-http://orchidetv.com:8081/s3/TheBossBaby2017.mp4
-#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]BRAVE 
-http://orchidetv.com:8081/s3/Brave2012.mp4
-#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]TOY STORY
-http://orchidetv.com:8081/s3/ToyStory1995.mp4
-#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]TOY STORY 2
-http://orchidetv.com:8081/s3/ToyStory21999.mp4
+#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]CHAPPIE
+http://orchidetv.com:8081/s3/chappie2015.mp4
+#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]PAIN AND GAIN
+http://orchidetv.com:8081/s3/painandgain.mp4
+#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]VENDETTA
+http://orchidetv.com:8081/s3/vendetta.mp4
+#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]GODZILLA
+http://orchidetv.com:8081/s3/godzilla2014.mp4
+#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]PACIFIC RIM
+http://orchidetv.com:8081/s3/pacificrim2013.mp4
+#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]THOR "THE DARK WORLD"
+http://orchidetv.com:8081/s3/thorthedarkworld.mp4
+#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]DOMINO
+http://orchidetv.com:8081/s3/domino.mp4
+#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]TACTICAL FORCE
+http://orchidetv.com:8081/s3/tacticalforce.mp4
+#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]6 DAYS
+http://orchidetv.com:8081/s3/6Days.mp4
+#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]FAST AND FURIOUS 6
+http://orchidetv.com:8081/s3/fastandfurious6.mp4
+#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]THE EXPENDABLES 2
+http://orchidetv.com:8081/s3/theexpendables2.mp4
+#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]MECHANIC "RESURRECTION"
+http://orchidetv.com:8081/s3/MechanicResurrection.mp4
+#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]BOUNTY KILLER
+http://orchidetv.com:8081/s3/bountykiller.mp4
+#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]DEATH WISH
+http://orchidetv.com:8081/s3/DeathWish.mp4
+#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]IN THE BLOOD
+http://orchidetv.com:8081/s3/intheblood.mp4
+#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]THE WATCH
+http://orchidetv.com:8081/s3/thewatch.mp4
+#EXTINF:-1 group-title="[AL]FILMA(tibo)" tvg-logo="https://i.imgur.com/CikCye9.png",[$]TROLLS
+http://orchidetv.com:8081/s3/Trolls2016.mp4
 
 #EXTINF:-1 group-title="[UK]FILMA(VOD)" tvg-logo="https://i.imgur.com/b91OZky.png",[$]FAST&FURIOUS 1
 http://www.deadlyblogger.com/NewRelease/fast1.mp4
@@ -11951,75 +11754,6 @@ http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/Argo.2012.72
 http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/ASecondChance2015WEBRipbuhaypirata_HD.mp4/playlist.m3u8
 #EXTINF:-1 group-title="[UK]FILMA(VOD)" tvg-logo="https://i.imgur.com/b91OZky.png",[$]ASSASSIN
 http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/Assassin.2014.HDRip.XViDjuggsETRG_HD.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]101 DALMATIONS
-http://www.deadlyblogger.com/NewRelease/dal1.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]A CHRISTMAS CAROL
-http://www.deadlyblogger.com/NewRelease/acc2009.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]A DISNEY CHRISTMAS GIFT
-http://www.deadlyblogger.com/NewRelease/disneyc1.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]CINDERELLA
-http://www.deadlyblogger.com/NewRelease/cinder1.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]DUCKTALES: TREASURE OF THE LOST LAMP
-http://www.deadlyblogger.com/NewRelease/ducktales1990.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]EPIC 
-http://www.deadlyblogger.com/NewRelease/epic1.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]FINDING NEMO
-http://www.deadlyblogger.com/NewRelease/nemo2003.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]FROZEN
-http://www.deadlyblogger.com/NewRelease/disneyfrozen.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]LEGO STAR WARS: THE YODA CHRONICLES
-http://www.deadlyblogger.com/NewRelease/legoyoda1.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]LION KING
-http://www.deadlyblogger.com/NewRelease/lionking.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]MICKEY TWICE UPAN A CHRISTMAS
-http://www.deadlyblogger.com/NewRelease/mickeytwice.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]MICKEY'S CHRISTMAS CAROL
-http://www.deadlyblogger.com/NewRelease/mchristmascarol.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]MICKEY'S MAGICAL CHRISTMAS
-http://www.deadlyblogger.com/NewRelease/mmagicalchristmas.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]MICKEY SAVES SANTA
-http://www.deadlyblogger.com/NewRelease/msavessanta.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]MONSTERS UNIVERSITY
-http://www.deadlyblogger.com/NewRelease/monsters2.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]MR PEABODY & SHERMAN
-http://www.deadlyblogger.com/NewRelease/sherman2014.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]MY NEIGHBOR TOTORO
-http://www.deadlyblogger.com/NewRelease/totoro.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]PETER PAN
-http://www.deadlyblogger.com/NewRelease/pan1.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]PINOCCHIO
-http://www.deadlyblogger.com/NewRelease/pinco1.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]RATATOUILLE
-http://www.deadlyblogger.com/NewRelease/ratatouille.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]RIO 2
-http://www.deadlyblogger.com/NewRelease/rio2.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]ROBIN HOOD
-http://www.deadlyblogger.com/NewRelease/robinhood1.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]RUDOLPH THE RED NOSED REINDEER
-http://www.deadlyblogger.com/NewRelease/rednose1964.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]SLEEPING BEAUTY
-http://www.deadlyblogger.com/NewRelease/beauty1.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]TANGLED
-http://www.deadlyblogger.com/NewRelease/tangled2010.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]TARZAN & JANE
-http://www.deadlyblogger.com/NewRelease/tarzanjane.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]TINKER BELL AND THE PIRATE FAIRY
-http://www.deadlyblogger.com/NewRelease/tinker2014.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]THE FOX & THE HOUND
-http://www.deadlyblogger.com/NewRelease/thefox.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]THE JUNGLE BOOK RETURN TO THE JUNGLE
-http://www.deadlyblogger.com/NewRelease/junglebook2013.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]THE LITTLE MERMAID
-http://www.deadlyblogger.com/NewRelease/mermaid1.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]THE POLAR EXPRESS
-http://www.deadlyblogger.com/NewRelease/polarexpress2004.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]TOY STORY OF TERROR
-http://www.deadlyblogger.com/NewRelease/storyterror.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]THE LEGO MOVIE
-http://www.deadlyblogger.com/NewRelease/legomovie2014.mp4
-#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]TURBO
-http://www.deadlyblogger.com/NewRelease/turbo.mp4
 
 #EXTINF:-1 group-title="[IT]FILMA(VOD)" tvg-logo="https://i.imgur.com/9fTFOy5.png",[$]Anni Di Meno 2013
 https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7122911_,800,1800,.mp4.csmil/index_1_av.m3u8
@@ -12532,6 +12266,319 @@ https://srv20.filmmodu.xyz/tt1620981/480p.tr.m3u8
 https://srv98.filmmodu.xyz/tt5848640/720p.tr.m3u8
 #EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/pjcC5bu.png",[$]yeti efsanesi (animasyon)
 https://srv17.filmmodu.xyz/tt6324278/720p.tr.m3u8
+
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]ICE AGE 1
+https://videos.files.wordpress.com/AqBy9rHt/iceage_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]ICE AGE 2
+https://videos.files.wordpress.com/lTit2Cgd/iceage2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]ICE AGE 3
+https://videos.files.wordpress.com/hNh83Pnd/iceage3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]ICE AGE 4
+https://videos.files.wordpress.com/M9NMA3Am/iceagecontinentaldrift_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]OPEN SEASON 1
+https://videos.files.wordpress.com/MPQEZPRN/openseason1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]OPEN SEASON 2
+https://videos.files.wordpress.com/MUYiRIrp/openseason2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]OPEN SEASON 3
+https://videos.files.wordpress.com/CiLMc1lf/openseason3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]OPEN SEASON 4
+https://videos.files.wordpress.com/NQf1ci6a/openseasonscaredsilly_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]KUNG-FU PANDA 1
+https://videos.files.wordpress.com/MBaiqmPK/kungfupanda1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]KUNG-FU PANDA 2
+https://videos.files.wordpress.com/ukkfWOlP/kungfupanda2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]KUNG-FU PANDA 3
+https://videos.files.wordpress.com/iSqft1pj/kungfupanda3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]DESPICABLE-ME 1
+https://videos.files.wordpress.com/g3WNpYqU/despicableme_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]DESPICABLE-ME 2
+https://videos.files.wordpress.com/3Flbt8SJ/despicableme2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]DESPICABLE-ME 3
+https://videos.files.wordpress.com/NerruU7g/despicableme3-1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]CARS 1
+https://videos.files.wordpress.com/aTZnEEAm/cars_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]CARS 2
+https://videos.files.wordpress.com/KK9Bh3kQ/cars2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]CARS 3
+https://videos.files.wordpress.com/eJzNncnd/cars3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SHREK 1
+https://videos.files.wordpress.com/Ur7bycOo/shrek_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SHREK 2
+https://videos.files.wordpress.com/CO2SnvzK/shrek2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SHREK 3
+http://37.26.86.39:48768/movies/shrek3.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]HOTEL TRANSYLVANIA 1
+https://videos.files.wordpress.com/I6sRCmoX/hoteltransylvania_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]HOTEL TRANSYLVANIA 2
+https://videos.files.wordpress.com/CzNSl868/hoteltransylvania2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]HOTEL TRANSYLVANIA 3
+https://videos.files.wordpress.com/fX8Uvrdd/hoteltransylvania3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]GARFIELD 1
+https://videos.files.wordpress.com/a6icPKji/garfield1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]GARFIELD 2
+https://videos.files.wordpress.com/QpdR2Nta/garfield2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]RIO 1
+https://videos.files.wordpress.com/lXWe7rsi/rio_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]RIO 2
+https://videos.files.wordpress.com/4DmHS3W7/rio2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]INCREDIBLES 1
+https://videos.files.wordpress.com/ryKXYBCp/theincredibles_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]INCREDIBLES 2
+https://videos.files.wordpress.com/ef90sJ9z/incredibles2-1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]BALTO 1
+https://videos.files.wordpress.com/8zi9DtKs/balto_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]BALTO 2
+https://videos.files.wordpress.com/FBGMYp4i/balto2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]POCAHONTAS 1
+https://videos.files.wordpress.com/pu66JDJz/pocahontas-1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]POCAHONTAS 2
+https://videos.files.wordpress.com/Ov27QqGg/pocahontas2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]THE LION KING 1
+https://videos.files.wordpress.com/6hJ0zd6S/thelionking_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]THE LION KING 2
+https://videos.files.wordpress.com/Qe46i7YG/thelionking2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]ALVIN AND THE CHIPMUNKS 1
+https://videos.files.wordpress.com/n5xOKcS9/alvinandthechipmunks_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]ALVIN AND THE CHIPMUNKS 2
+https://videos.files.wordpress.com/YtQOOLXQ/alvinandthechipmunkstheroadchip2015_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]FROZEN 1
+https://videos.files.wordpress.com/Ca1FbBGc/frozen_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]FROZEN 2
+https://videos.files.wordpress.com/7M63fNKq/frozenii_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SPACE JAM 1
+https://videos.files.wordpress.com/pbtOe37j/spacejam_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SPACE JAM 2
+https://videos.files.wordpress.com/ZuquOGjI/spacejamanewlegacy_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]MADAGASCAR 2
+https://videos.files.wordpress.com/zWizuexl/madagascar2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]MADAGASCAR 3
+https://videos.files.wordpress.com/igHqeOMh/madagascar3-1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]TOM & JERRY "SPY QUEST"
+https://videos.files.wordpress.com/xcuwfFqP/tomandjerryspyquest_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]TOM & JERRY "CHOCOLATE FACTORY"
+https://videos.files.wordpress.com/HtuGDOPW/tomandjerrywillywonkaandthechocolatefactory2017_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]TOM & JERRY "GIANT ADVENTURE"
+https://xplorersclub.com/upload/media/CDN/Tomi%20dhe%20Xherri%20Aventur%C3%AB%20Gjigande%20%28Tom%20and%20Jerrys%20Giant%20Adventure%29.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SCOOBY-DOO "MASK OF THE BLUE FALCON"
+https://videos.files.wordpress.com/lGIWHmen/scooby-doomaskofthebluefalcon_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]PINK PANTHER "SOCCER CHAMPION"
+https://eu.shqipbox.app/file/shqipbox/filma/Pink%20Panther%20is%20a%20Soccer%20Champion%21%20-%2056%20Min%20Compilation%20-%20Pink%20Panther%20and%20Pals.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SCOOBY-DOO
+https://videos.files.wordpress.com/PWAuOZrU/scooby-doo_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]MASHA AND THE BEAR
+https://videos.files.wordpress.com/vGzBQ67i/mashaandthebear_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]YOGI BEAR
+https://videos.files.wordpress.com/6NFKScMF/yogibear_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SUPERMAN "MAN OF TOMORROW"
+https://videos.files.wordpress.com/Zcq8xX9P/supermanmanoftomorrow_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SCOOB!
+https://videos.files.wordpress.com/euB1KzEN/scoob_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]LILO & STITCH
+https://videos.files.wordpress.com/7SvnVs4v/lilostitch_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]LATTE "THE MAGIC WATER STONE"
+https://videos.files.wordpress.com/spEtdyms/lattethemagicwaterstone_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]JUSTICE LEAGUE "DARK APOKALIPS WAR"
+https://videos.files.wordpress.com/G17YO2P0/justiceleaguedarkapokolipswar_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SPYCIES
+https://videos.files.wordpress.com/YtFwm5Qg/spycies_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SPIES IN DISGUISE
+https://videos.files.wordpress.com/JtVz7yP5/spiesindisguise_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]TOY STORY 4
+https://videos.files.wordpress.com/4oTNl2fE/toystory4_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]THE SECRET LIFE OF PETS 2
+https://videos.files.wordpress.com/UsKJfJ44/thesecretlifeofpets2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]PETTER RABIT
+https://videos.files.wordpress.com/1xjVuSNf/peterrabbit-1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]NORM OF THE NORTH KING
+https://videos.files.wordpress.com/5dnqGVAk/normofthenorthking-1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]POKMON "MEWTO STRIKES BACK"
+https://videos.files.wordpress.com/4ad6qwNX/pokmonmewtwostrikesback_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]RAYA AND THE LAST DRAGON
+https://videos.files.wordpress.com/jLSlTSOK/rayaandthelastdragon_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SECRET MAGIC CONTROL AGENCY
+https://videos.files.wordpress.com/Pe2jJQTe/secretmagiccontrolagency_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SUPER BEAR
+https://videos.files.wordpress.com/jZ6VM3Bx/superbear_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]THE SWORD IN THE STONE
+https://videos.files.wordpress.com/zKR1NSTw/theswordinthestone_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]ARCTIC DOGS
+https://videos.files.wordpress.com/V94MkMFq/arcticdogs-1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]ENCHANTED
+https://videos.files.wordpress.com/xyNhfBQ4/enchanted_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]THE STAR
+https://videos.files.wordpress.com/SpJyUzM4/thestar_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]PETS UNITED
+https://videos.files.wordpress.com/dOXYHHTT/petsunited2019_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]TURBO
+https://videos.files.wordpress.com/tZOk4pMd/turbo-1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]WONDER PARK
+https://videos.files.wordpress.com/tpBZISXK/wonderpark_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]TREASURE PLANET
+https://videos.files.wordpress.com/XuAQDHQ7/treasureplanet_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]REIGN OF THE SUPERMEN
+https://videos.files.wordpress.com/m0rpI9y3/reignofthesupermen_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]PLANET HULK
+https://videos.files.wordpress.com/dXb8vKun/planethulk_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]MONSTERS VS ALIENS
+https://videos.files.wordpress.com/snLvkNcJ/monstersvs.aliens_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]CAPTIVE
+https://videos.files.wordpress.com/nVijir63/captive_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]RANGO
+https://videos.files.wordpress.com/LEDIiHEW/rango_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]BOLT
+https://videos.files.wordpress.com/cTEYW0Qt/bolt-1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]101 DALMATS
+https://videos.files.wordpress.com/PINaEjf1/101dalmats_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]ALADDIN
+https://videos.files.wordpress.com/xPjgaACf/aladdin_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]ANIMAL CRAKERS
+https://videos.files.wordpress.com/M1kQPSDA/animalcrackers_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]BRAVE
+https://videos.files.wordpress.com/LXqviOY6/brave-1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]SLEEPING BEAUTY
+https://videos.files.wordpress.com/jkcqnGrG/sleepingbeauty_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]THE ADVENTURES OF TINTIN
+https://videos.files.wordpress.com/4675rsxQ/theadventuresoftintin_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]ASTERIX "THE SECRET OF THE MAGIC POTION"
+https://videos.files.wordpress.com/uH8etCRT/asterixthesecretofthemagicpotion_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]BLINKY BILL
+https://videos.files.wordpress.com/NC3JKG9L/blinkybill_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]EL DORADO
+https://videos.files.wordpress.com/z2W3lBXU/eldorado_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]PENGUINS OF MADAGASCAR
+https://videos.files.wordpress.com/4lm4mH7Y/penguinsofmadagascar_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]THE BOSS BABY
+https://videos.files.wordpress.com/MieGiNzQ/thebossbaby_mp4_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(TITRA SHQIP)" tvg-logo="https://i.imgur.com/nUWfOfx.png",[$]TEENAGE MUTANT NINJA TURTLES
+https://videos.files.wordpress.com/iLz8KJgo/tmnt_mp4_dvd.mp4
+
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]TOM & JERRY VOL.1
+http://orchidetv.com:8081/s3/tomandjerry1.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]TOM & JERRY VOL.2
+http://orchidetv.com:8081/s3/tomandjerry2.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]TOM & JERRY VOL.3
+http://orchidetv.com:8081/s3/tomandjerry3.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]TOM & JERRY VOL.4
+http://orchidetv.com:8081/s3/tomandjerry4.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]TOM & JERRY VOL.5
+http://orchidetv.com:8081/s3/tomandjerry5.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]TOM & JERRY "WIZARD OF OZ"
+http://orchidetv.com:8081/s3/tomandjerryandthewizardofoz.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]TOM & JERRY "GIANT ADVENTURE"
+http://orchidetv.com:8081/s3/TomAndJerryGiantAdventure.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]YI-GI-OH! DARK SIDE OF DIMENSION
+http://orchidetv.com:8081/s3/YuGiOhTheDarkSideofDimension.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]MADAGASCAR 1
+http://orchidetv.com:8081/s3/madagascar1/mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]MADAGASCAR 2
+http://orchidetv.com:8081/s3/madagascar2.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]MADAGASCAR 3
+http://orchidetv.com:8081/s3/madagascar3.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]KUNG FU PANDA 1
+http://orchidetv.com:8081/s3/kungfupanda2008.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]KUNG FU PANDA 2
+http://orchidetv.com:8081/s3/KungFuPanda22011.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]KUNG FU PANDA 3
+http://orchidetv.com:8081/s3/KungFuPanda32016.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]GARFIELD 1
+http://orchidetv.com:8081/s3/garfild1.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]GARFIELD 2
+http://orchidetv.com:8081/s3/garfield2.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]PLANET HULK
+http://orchidetv.com:8081/s3/planethulk2010.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]THE SECRET LIFE OF PETS
+http://orchidetv.com:8081/s3/TheSecretLifeOfPets.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]MINIONS
+http://orchidetv.com:8081/s3/Minions2015.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]FINDING NEMO
+http://orchidetv.com:8081/s3/findingnemo.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]CHICKEN RUN
+http://orchidetv.com:8081/s3/chickenrun.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]FROZEN
+http://orchidetv.com:8081/s3/frozen.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]THE ADVENTURES OF TINTIN
+http://orchidetv.com:8081/s3/theadventuresoftintin.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]TANGLED
+http://orchidetv.com:8081/s3/tangled.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]HOW TO TRAIN YOUR DRAGON
+http://orchidetv.com:8081/s3/howtotrainyourdragon.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]THE BOSS BABY
+http://orchidetv.com:8081/s3/TheBossBaby2017.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]BRAVE 
+http://orchidetv.com:8081/s3/Brave2012.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]TOY STORY
+http://orchidetv.com:8081/s3/ToyStory1995.mp4
+#EXTINF:-1 group-title="[AL]FILMA KIDS(tibo)" tvg-logo="https://i.imgur.com/97mhUIo.png",[$]TOY STORY 2
+http://orchidetv.com:8081/s3/ToyStory21999.mp4
+
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]101 DALMATIONS
+http://www.deadlyblogger.com/NewRelease/dal1.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]A CHRISTMAS CAROL
+http://www.deadlyblogger.com/NewRelease/acc2009.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]A DISNEY CHRISTMAS GIFT
+http://www.deadlyblogger.com/NewRelease/disneyc1.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]CINDERELLA
+http://www.deadlyblogger.com/NewRelease/cinder1.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]DUCKTALES: TREASURE OF THE LOST LAMP
+http://www.deadlyblogger.com/NewRelease/ducktales1990.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]EPIC 
+http://www.deadlyblogger.com/NewRelease/epic1.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]FINDING NEMO
+http://www.deadlyblogger.com/NewRelease/nemo2003.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]FROZEN
+http://www.deadlyblogger.com/NewRelease/disneyfrozen.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]LEGO STAR WARS: THE YODA CHRONICLES
+http://www.deadlyblogger.com/NewRelease/legoyoda1.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]LION KING
+http://www.deadlyblogger.com/NewRelease/lionking.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]MICKEY TWICE UPAN A CHRISTMAS
+http://www.deadlyblogger.com/NewRelease/mickeytwice.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]MICKEY'S CHRISTMAS CAROL
+http://www.deadlyblogger.com/NewRelease/mchristmascarol.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]MICKEY'S MAGICAL CHRISTMAS
+http://www.deadlyblogger.com/NewRelease/mmagicalchristmas.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]MICKEY SAVES SANTA
+http://www.deadlyblogger.com/NewRelease/msavessanta.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]MONSTERS UNIVERSITY
+http://www.deadlyblogger.com/NewRelease/monsters2.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]MR PEABODY & SHERMAN
+http://www.deadlyblogger.com/NewRelease/sherman2014.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]MY NEIGHBOR TOTORO
+http://www.deadlyblogger.com/NewRelease/totoro.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]PETER PAN
+http://www.deadlyblogger.com/NewRelease/pan1.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]PINOCCHIO
+http://www.deadlyblogger.com/NewRelease/pinco1.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]RATATOUILLE
+http://www.deadlyblogger.com/NewRelease/ratatouille.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]RIO 2
+http://www.deadlyblogger.com/NewRelease/rio2.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]ROBIN HOOD
+http://www.deadlyblogger.com/NewRelease/robinhood1.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]RUDOLPH THE RED NOSED REINDEER
+http://www.deadlyblogger.com/NewRelease/rednose1964.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]SLEEPING BEAUTY
+http://www.deadlyblogger.com/NewRelease/beauty1.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]TANGLED
+http://www.deadlyblogger.com/NewRelease/tangled2010.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]TARZAN & JANE
+http://www.deadlyblogger.com/NewRelease/tarzanjane.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]TINKER BELL AND THE PIRATE FAIRY
+http://www.deadlyblogger.com/NewRelease/tinker2014.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]THE FOX & THE HOUND
+http://www.deadlyblogger.com/NewRelease/thefox.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]THE JUNGLE BOOK RETURN TO THE JUNGLE
+http://www.deadlyblogger.com/NewRelease/junglebook2013.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]THE LITTLE MERMAID
+http://www.deadlyblogger.com/NewRelease/mermaid1.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]THE POLAR EXPRESS
+http://www.deadlyblogger.com/NewRelease/polarexpress2004.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]TOY STORY OF TERROR
+http://www.deadlyblogger.com/NewRelease/storyterror.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]THE LEGO MOVIE
+http://www.deadlyblogger.com/NewRelease/legomovie2014.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]TURBO
+http://www.deadlyblogger.com/NewRelease/turbo.mp4
 
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/j7SSwZi.png",======================
 https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4
