@@ -3434,20 +3434,6 @@ http://31.220.41.88:8081/live/pt-sporttv3.stream/playlist.m3u8|User-Agent=stream
 http://31.220.41.88:8081/live/pt-sporttv4.stream/playlist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]METI SPORTS" tvg-logo="https://i.ibb.co/V38VnJs/sp5.png",[$]SPORT-TV 5HD
 http://31.220.41.88:8081/live/pt-sporttv5.stream/playlist.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]METI SPORTS" tvg-logo="https://i.imgur.com/wtHHFnq.png",[$]SPORT KLUB 1HD
-http://81.93.72.46:8000/play/a016/index.m3u8
-#EXTINF:0 group-title="[AL]METI SPORTS" tvg-logo="https://i.ibb.co/PrMzxxC/A1.png",[$]ARENA SPORT 1HD
-http://81.93.72.46:8000/play/a01n/index.m3u8
-#EXTINF:0 group-title="[AL]METI SPORTS" tvg-logo="https://i.ibb.co/2sdhqrq/A2.png",[$]ARENA SPORT 2HD
-http://81.93.72.46:8000/play/a01o/index.m3u8
-#EXTINF:0 group-title="[AL]METI SPORTS" tvg-logo="https://i.ibb.co/2FHMMPW/A3.png",[$]ARENA SPORT 3HD
-http://81.93.72.46:8000/play/a01p/index.m3u8
-#EXTINF:0 group-title="[AL]METI SPORTS" tvg-logo="https://i.ibb.co/MNRVN1M/A4.png",[$]ARENA SPORT 4HD
-http://81.93.72.46:8000/play/a01q/index.m3u8
-#EXTINF:0 group-title="[AL]METI SPORTS" tvg-logo="https://i.ibb.co/t3ncCtN/A5.png",[$]ARENA SPORT 5HD 
-http://81.93.72.46:8000/play/a01t/index.m3u8
-#EXTINF:0 group-title="[AL]METI SPORTS" tvg-logo="https://i.imgur.com/HgRqsDo.png",[$]EXTREME SPORTS HD 
-http://81.93.72.46:8000/play/a028/index.m3u8
 
 #EXTINF:0 group-title="[AL]KUDO SPORTS" tvg-logo="https://i.ibb.co/2hVZhdw/s1.jpg",[$]SUPER SPORT 1HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
@@ -6516,6 +6502,8 @@ https://liki.gjirafa.com/api/media/gjvideo/zxtkgg/480/index.m3u8
 https://liki.gjirafa.com/api/media/gjvideo/zxyx11/480/index.m3u8
 #EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/m18ZkEo.png",[RRUSHE] EP.15 [$]
 https://liki.gjirafa.com/api/media/gjvideo/zxygtq/480/index.m3u8
+#EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/m18ZkEo.png",[RRUSHE] EP.16 [$]
+https://liki.gjirafa.com/api/media/gjvideo/zxyqkx/480/index.m3u8
 #EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/quRPh4w.png",======================
 https://videos.files.wordpress.com/LrrmpTEy/serialestart_mp4_dvd.mp4?1
 #EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/B5LtveW.png",[DEKALOGU KUQ&ZI] SPITALI [$]
